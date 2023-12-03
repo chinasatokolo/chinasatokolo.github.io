@@ -7,7 +7,7 @@ author_profile: true
 
 To contact me for interviews or speaking engagements, please email Brookings' Governance Studies Media Office or contact me directly through my [Brookings Website Contact Form](https://www.brookings.edu/people/chinasa-t-okolo/). General inquiries can also be done through my contact form or through [LinkedIn](https://www.linkedin.com/in/chinasaokolo).
 
-### Media Contact: \
+### Media Contact:
 The Brookings Institution \
 Governance Studies Media Office \
 gsmedia@brookings.edu \
