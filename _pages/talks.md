@@ -58,4 +58,4 @@ author_profile: true
 
 ### 2018
 * **October 2018:** Microsoft Research PhD Summit, Microsoft — _Redmond, WA_
-* **April 2018:** [Celebration of Women in Computing in Southern California](https://cwicsocal18.ics.uci.edu), UC Irvine
+* **April 2018:** [Celebration of Women in Computing in Southern California](https://cwicsocal18.ics.uci.edu), UC Irvine — _Irvine, CA_
