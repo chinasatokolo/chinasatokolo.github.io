@@ -25,7 +25,7 @@ author_profile: true
 * **August 2022:** [AI4PAN Artificial Intelligence for Pandemics Seminar Series](https://smp.uq.edu.au/event/session/12597), University of Queensland | _Virtual_
 * **July 2022:** Microsoft Research Technology & Empowerment (TEM) Seminar, Microsoft Research India | _Bangalore, India_
 * **July 2022:** AI for Social Good Group Seminar, Google Research India | _Bangalore, India_
-* **June 2022:** Big Data & AI in the Global South CRAFT Session, ACM Conference on Fairness, Accountability, and Transparency (FAccT) | _Seoul, Korea_
+* **June 2022:** [Big Data & AI in the Global South CRAFT Session](https://sites.google.com/view/bdai-facct2022/home), ACM Conference on Fairness, Accountability, and Transparency (FAccT) | _Seoul, Korea_
 * **April 2022:** Technology for Underserved Communities (INFO 6600), Cornell University
 
 ### 2021
@@ -33,7 +33,8 @@ author_profile: true
 * **June 2021:** Science Research Mentoring Program (SRMP), American Museum of Natural History | _Virtual_
 * **May 2021:** [2nd ELLIS Workshop on Human-Centric Machine Learning](https://sites.google.com/view/hcml2021?pli=1) | _Virtual_
 * **May 2021:** Keynote Talk, [Practical Machine Learning for Developing Countries Workshop @ ICLR](https://pml4dc.github.io/iclr2021/) | _Virtual_
-* * **April 2021:** Technology for Underserved Communities (INFO 6600), Cornell University | _Virtual_
+* **April 2021:** Technology for Underserved Communities (INFO 6600), Cornell University | _Virtual_
+* **April 2021:** Try AI Speaker Series | _Virtual_
 * **March 2021:** [Blackathon - A Virtual Hackathon for the Diaspora](https://www.youtube.com/watch?v=AeOrebln568) | _Virtual_
 
 ### 2020
@@ -44,6 +45,6 @@ author_profile: true
 * **December 2019:** [Women in AI Ignite Session](https://womeninaiigniteatneurips.splashthat.com/), NeurIPS | _Vancouver, BC_
 
 ### 2018
-* **October 2018:** Microsoft Research PhD Summit, Microsoft
+* **October 2018:** Microsoft Research PhD Summit, Microsoft | _Redmond, WA_
 * **April 2018:** [Celebration of Women in Computing in Southern California](https://cwicsocal18.ics.uci.edu), UC Irvine
 
