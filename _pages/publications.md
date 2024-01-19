@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Ljcd9nMAAAAJ&hl=en&oi=sra) or [ResearchGate](https://www.researchgate.net/profile/Chinasa-Okolo-2).
+
 ## 2024
 Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas Kgomo, and Richard Ngamita. "African Case Studies in AI Policy Development." To appear in the _Data for Policy Conference_, Data & Policy, Cambridge University Press, 2024.
 
@@ -34,13 +36,3 @@ Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas K
 
 ## 2020
 **Chinasa T. Okolo**. "Privacy and Security Implications of mHealth Applications in Sub-Saharan Africa." In the _Cornell Healthcare Review_, 2020. 
-
-% if author.googlescholar %
-  You can also find my articles on <u><a href="author.googlescholar">my Google Scholar profile</a>.</u>
-% endif %
-
-% include base_path %
-
-% for post in site.publications reversed %
-  % include archive-single.html %
-% endfor %
