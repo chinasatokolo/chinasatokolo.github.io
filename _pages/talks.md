@@ -45,12 +45,16 @@ author_profile: true
 * **July 2020:** [Harvard CRCS Workshop on AI for Social Good](https://aiforgood2020.github.io) — _Virtual_
 * **July 2020:** [WiML Un-Workshop](https://wimlworkshop.org/icml2020/program/) — _Virtual_
 * **June 2020:** OHUB365 Webinar — _Virtual_
-* **July 2020:** [Women in Computer Vision Workshop](https://sites.google.com/view/wicvworkshop-cvpr2020), CVPR — _Virtual_
+* **July 2020:** [Women in Computer Vision Workshop](https://sites.google.com/view/wicvworkshop-cvpr2020), IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) — _Virtual_
 * **March 2020:** SWE Local Buffalo — _Virtual_
-* **March 2020:** [GWiS Empowerment Month Roundtable Discussion](https://gwiscornell.wordpress.com/march-2020-empowerment-month) — _Ithaca, NY_
+* **March 2020:** [GWiS Empowerment Month Roundtable Discussion](https://gwiscornell.wordpress.com/march-2020-empowerment-month), Cornell University — _Ithaca, NY_
 
 ### 2019
 * **December 2019:** [Women in AI Ignite Session](https://womeninaiigniteatneurips.splashthat.com/), NeurIPS — _Vancouver, BC_
+* **December 2019:** Black in AI Workshop, NeurIPS — _Vancouver, BC_ 
+* **December 2019:** Issues in African Development Seminar Series, Cornell University — _Ithaca, NY_ 
+* **April 2019:** Computing Research Association Graduate Cohort Workshop for Women, — _Chicago, IL_
+* **March 2019:** Computing Research Association Graduate Cohort Workshop for URMD, — _Waikoloa, HI_ 
 
 ### 2018
 * **October 2018:** Microsoft Research PhD Summit, Microsoft — _Redmond, WA_
