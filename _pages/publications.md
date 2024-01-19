@@ -18,7 +18,7 @@ Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas K
 ## 2023
 **Chinasa T. Okolo**. "AI in the Global South: Opportunities and challenges towards more inclusive governance." _TechTank_. The Brookings Institution, 2023.
 
-**Chinasa T. Okolo**. "Addressing Global Inequity in AI Development." In the _Handbook of Critical Studies of Artificial Intelligence_. Edited by Simon Lindgren. Edward Elgar Publishers, 2023.
+**Chinasa T. Okolo**. ["Addressing Global Inequity in AI Development."](https://chinasatokolo.github.io/files/Okolo_GIAID_2023.pdf) In the _Handbook of Critical Studies of Artificial Intelligence_. Edited by Simon Lindgren. Edward Elgar Publishers, 2023.
 
 **Chinasa T. Okolo**. ["The Promise and Perils of Generative AI: Case Studies in an African Context."](https://chinasatokolo.github.io/files/Okolo_AfriCHI_2023.pdf) In the _African Conference for Human Computer Interaction (AfriCHI)_, 2023.
 
