@@ -24,8 +24,8 @@ author_profile: true
 * **October 2022:** Change Seminar, University of Washington | _Virtual_
 * **August 2022:** [AI4PAN Artificial Intelligence for Pandemics Seminar Series](https://smp.uq.edu.au/event/session/12597), University of Queensland | _Virtual_
 * **July 2022:** Microsoft Research Technology & Empowerment (TEM) Seminar, Microsoft Research India | _Bangalore, India_
-* **July 2022:** AI for Social Good Group Seminar, Google Research India
-* **June 2022:** Big Data & AI in the Global South CRAFT Session, ACM Conference on Fairness, Accountability, and Transparency (FAccT) in _Seoul, Korea_
+* **July 2022:** AI for Social Good Group Seminar, Google Research India | _Bangalore, India_
+* **June 2022:** Big Data & AI in the Global South CRAFT Session, ACM Conference on Fairness, Accountability, and Transparency (FAccT) | _Seoul, Korea_
 * **April 2022:** Technology for Underserved Communities (INFO 6600), Cornell University
 
 ### 2021
