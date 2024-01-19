@@ -12,7 +12,7 @@ Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas K
 
 **Chinasa T. Okolo**. "Reforming Data Regulation to Advance AI Governance in Africa." _Foresight Africa_. The Brookings Institution, 2024.
 
-**Chinasa T. Okolo***, Dhruv Agarwal*, Aditya Vashistha, Nicola Dell. 
+**Chinasa T. Okolo**, Dhruv Agarwal, Aditya Vashistha, Nicola Dell. 
 ["`If it is easy to understand then it will have value': Examining Perceptions of Explainable AI with Community Health Workers in Rural India."](https://chinasatokolo.github.io/files/Okolo_CSCW_2023.pdf) In the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, 2024. 
 
 ## 2023
@@ -38,13 +38,13 @@ Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas K
 ## 2021
 **Chinasa T. Okolo**, Srujana Kamath, Nicola Dell, and Aditya Vashistha. ["`It cannot do all of my work': Community Health Worker Perceptions of AI-Enabled Mobile Health Applications in Rural India."](https://chinasatokolo.github.io/files/Okolo_CHI_2021.pdf) In the _Conference on Human Factors in Computing Systems (CHI)_, 2021.
 
-Alan Chan*, **Chinasa T. Okolo***, Zachary Terner*, and Angelina Wang*. ["The Limits of Global Inclusion in AI Development."](https://chinasatokolo.github.io/files/Okolo_AAAI_2021.pdf) In the _Reframing Diversity in AI: Representation, Inclusion & Power Workshop_ at the AAAI Conference on Artificial Intelligence, 2021.
+Alan Chan, **Chinasa T. Okolo***, Zachary Terner, and Angelina Wang. ["The Limits of Global Inclusion in AI Development."](https://chinasatokolo.github.io/files/Okolo_AAAI_2021.pdf) In the _Reframing Diversity in AI: Representation, Inclusion & Power Workshop_ at the AAAI Conference on Artificial Intelligence, 2021.
 
 ## 2020
 
 **Chinasa T. Okolo**. ["AI in the `Real World': Examining the Impact of AI Deployment in Low-Resource Contexts."](https://chinasatokolo.github.io/files/Okolo_NBIAIR_2020.pdf) In the _Navigating the Broader Impacts of AI Research Workshop_ at the Annual Conference on Neural Information Processing Systems (NeurIPS), 2020.
 
-Michelle González Amador* and **Chinasa T. Okolo***. ["ACIPS: A Framework for Evaluating Patient Perception in the Introduction of AI-enabled Healthcare."](https://chinasatokolo.github.io/files/Okolo_ACIPS_2020.pdf) In the _Data4Good: Designing for Diversity and Development Workshop_ at the International Conference on Advanced Visual Interfaces (AVI), 2020.
+**Chinasa T. Okolo** and Michelle González Amador. ["ACIPS: A Framework for Evaluating Patient Perception in the Introduction of AI-enabled Healthcare."](https://chinasatokolo.github.io/files/Okolo_ACIPS_2020.pdf) In the _Data4Good: Designing for Diversity and Development Workshop_ at the International Conference on Advanced Visual Interfaces (AVI), 2020.
 
 Ezinne Nwankwo, **Chinasa T. Okolo**, and Cynthia Habonimana. "[Topic Modeling Approaches for Understanding COVID-19 Misinformation Spread in Sub-Saharan Africa."](https://chinasatokolo.github.io/files/Okolo_AI4SG_2020.pdf) In the _Harvard CRCS Workshop on AI for Social Good_, 2020. 
 
