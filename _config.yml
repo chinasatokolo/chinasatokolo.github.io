@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chinasa T. Okolo"
-title_separator          : "Ph.D."
-name                     : &name "Chinasa T. Okolo"
+title                    : "Chinasa T. Okolo, Ph.D."
+title_separator          : "Dr."
+name                     : &name "Chinasa T. Okolo, Ph.D."
 description              : &description "Personal website for Chinasa T. Okolo"
 url                      : https://chinasatokolo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
