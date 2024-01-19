@@ -26,7 +26,7 @@ Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas K
 
 **Chinasa T. Okolo**. ["Towards a Praxis for Intercultural Ethics in Explainable AI."](https://chinasatokolo.github.io/files/Okolo_InterEthics_2023.pdf) In the _Many Worlds of AI Conference_, 2023.
 
-**Chinasa T. Okolo**. ["IAC: A Framework for Enabling Patient Agency in the Use of AI-Enabled Healthcare."](https://chinasatokolo.github.io/files/Okolo_IAC_2023.pdf) _Preprint_, 2023.
+**Chinasa T. Okolo** and Michelle González Amador. ["IAC: A Framework for Enabling Patient Agency in the Use of AI-Enabled Healthcare."](https://chinasatokolo.github.io/files/Okolo_IAC_2023.pdf) _Preprint_, 2023.
 
 **Chinasa T. Okolo**, Kehinde Aruleba, and George Obaido. ["Challenges to Effective AI Adoption and Implementation in Africa."](https://chinasatokolo.github.io/files/Okolo_RAI_2023.pdf) In _Responsible AI in Africa - Challenges and Opportunities_, pp 35-64. Edited by Kutoma Wakunuma, Damian Eke, and Simi Akintoye. Palgrave Macmillan UK, 2023.
 
