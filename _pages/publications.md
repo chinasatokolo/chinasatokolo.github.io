@@ -13,7 +13,7 @@ Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas K
 **Chinasa T. Okolo**. "Reforming Data Regulation to Advance AI Governance in Africa." _Foresight Africa_. The Brookings Institution, 2024.
 
 **Chinasa T. Okolo***, Dhruv Agarwal*, Aditya Vashistha, Nicola Dell. 
-[" `If it is easy to understand then it will have value': Examining Perceptions of Explainable AI with Community Health Workers in Rural India."](https://chinasatokolo.github.io/files/Okolo_CSCW_2023.pdf) In the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, 2024. 
+["`If it is easy to understand then it will have value': Examining Perceptions of Explainable AI with Community Health Workers in Rural India."](https://chinasatokolo.github.io/files/Okolo_CSCW_2023.pdf) In the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, 2024. 
 
 ## 2023
 **Chinasa T. Okolo**. "AI in the Global South: Opportunities and challenges towards more inclusive governance." _TechTank_. The Brookings Institution, 2023.
@@ -36,7 +36,7 @@ Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas K
 **Chinasa T. Okolo**. ["Optimizing Human-centered AI for Healthcare in the Global South."](https://chinasatokolo.github.io/files/Okolo_Cell_2022.pdf) Patterns, 100421. In _Cell Press_, 2022. 
 
 ## 2021
-**Chinasa T. Okolo**, Srujana Kamath, Nicola Dell, and Aditya Vashistha. [" `It cannot do all of my work': Community Health Worker Perceptions of AI-Enabled Mobile Health Applications in Rural India."](https://chinasatokolo.github.io/files/Okolo_CHI_2021.pdf) In the _Conference on Human Factors in Computing Systems (CHI)_, 2021.
+**Chinasa T. Okolo**, Srujana Kamath, Nicola Dell, and Aditya Vashistha. ["`It cannot do all of my work': Community Health Worker Perceptions of AI-Enabled Mobile Health Applications in Rural India."](https://chinasatokolo.github.io/files/Okolo_CHI_2021.pdf) In the _Conference on Human Factors in Computing Systems (CHI)_, 2021.
 
 Alan Chan*, **Chinasa T. Okolo***, Zachary Terner*, and Angelina Wang*. ["The Limits of Global Inclusion in AI Development."](https://chinasatokolo.github.io/files/Okolo_AAAI_2021.pdf) In the _Reframing Diversity in AI: Representation, Inclusion & Power Workshop_ at the AAAI Conference on Artificial Intelligence, 2021.
 
