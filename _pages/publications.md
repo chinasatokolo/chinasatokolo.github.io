@@ -8,12 +8,14 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Ljcd9nMAAAAJ&hl=en&oi=sra) or [ResearchGate](https://www.researchgate.net/profile/Chinasa-Okolo-2).
 
 ## 2024
+**Chinasa T. Okolo** and Hongjin Lin. ["Practitioner Perspectives on Model Explainability in AI for Social Good."](https://chinasatokolo.github.io/files/Okolo_XAI4SG_2024.pdf) _Under review_, 2024.
+
 Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas Kgomo, and Richard Ngamita. "African Case Studies in AI Policy Development." To appear in the _Data for Policy Conference_, Data & Policy, Cambridge University Press, 2024.
 
 **Chinasa T. Okolo**. "Reforming Data Regulation to Advance AI Governance in Africa." _Foresight Africa_. The Brookings Institution, 2024.
 
 **Chinasa T. Okolo**, Dhruv Agarwal, Aditya Vashistha, Nicola Dell. 
-["`If it is easy to understand then it will have value': Examining Perceptions of Explainable AI with Community Health Workers in Rural India."](https://chinasatokolo.github.io/files/Okolo_CSCW_2023.pdf) To appear in the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, Volume 8, Issue CSCW1, Article No. 71, 2024. 
+["`If it is easy to understand then it will have value': Examining Perceptions of Explainable AI with Community Health Workers in Rural India."](https://chinasatokolo.github.io/files/Okolo_CSCW_2024.pdf) To appear in the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, Volume 8, Issue CSCW1, Article No. 71, 2024. 
 
 ## 2023
 **Chinasa T. Okolo**. "AI in the Global South: Opportunities and challenges towards more inclusive governance." _TechTank_. The Brookings Institution, 2023.
