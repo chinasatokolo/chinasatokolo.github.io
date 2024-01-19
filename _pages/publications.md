@@ -13,7 +13,7 @@ Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas K
 **Chinasa T. Okolo**. "Reforming Data Regulation to Advance AI Governance in Africa." _Foresight Africa_. The Brookings Institution, 2024.
 
 **Chinasa T. Okolo**, Dhruv Agarwal, Aditya Vashistha, Nicola Dell. 
-["`If it is easy to understand then it will have value': Examining Perceptions of Explainable AI with Community Health Workers in Rural India."](https://chinasatokolo.github.io/files/Okolo_CSCW_2023.pdf) In the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, 2024. 
+["`If it is easy to understand then it will have value': Examining Perceptions of Explainable AI with Community Health Workers in Rural India."](https://chinasatokolo.github.io/files/Okolo_CSCW_2023.pdf) To appear in the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, Volume 8, Issue CSCW1, Article No. 71, 2024. 
 
 ## 2023
 **Chinasa T. Okolo**. "AI in the Global South: Opportunities and challenges towards more inclusive governance." _TechTank_. The Brookings Institution, 2023.
@@ -24,9 +24,9 @@ Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas K
 
 **Chinasa T. Okolo**. ["AI Explainability in the Global South: Towards an Inclusive Praxis for Emerging Technology Users."](https://www.researchgate.net/publication/373864304_AI_Explainability_in_the_Global_South_Towards_an_Inclusive_Praxis_for_Emerging_Technology_Users) Dissertation, 2023.
 
-**Chinasa T. Okolo**. ["Towards a Praxis for Intercultural Ethics in Explainable AI."](https://chinasatokolo.github.io/files/Okolo_InterEthics_2023.pdf) In the _Many Worlds of AI Conference_. 2023.
+**Chinasa T. Okolo**. ["Towards a Praxis for Intercultural Ethics in Explainable AI."](https://chinasatokolo.github.io/files/Okolo_InterEthics_2023.pdf) In the _Many Worlds of AI Conference_, 2023.
 
-**Chinasa T. Okolo**. ["IAC: A Framework for Enabling Patient Agency in the Use of AI-Enabled Healthcare."](https://chinasatokolo.github.io/files/Okolo_IAC_2023.pdf) _Preprint_. 2023.
+**Chinasa T. Okolo**. ["IAC: A Framework for Enabling Patient Agency in the Use of AI-Enabled Healthcare."](https://chinasatokolo.github.io/files/Okolo_IAC_2023.pdf) _Preprint_, 2023.
 
 **Chinasa T. Okolo**, Kehinde Aruleba, and George Obaido. ["Challenges to Effective AI Adoption and Implementation in Africa."](https://chinasatokolo.github.io/files/Okolo_RAI_2023.pdf) In _Responsible AI in Africa - Challenges and Opportunities_, pp 35-64. Edited by Kutoma Wakunuma, Damian Eke, and Simi Akintoye. Palgrave Macmillan UK, 2023.
 
