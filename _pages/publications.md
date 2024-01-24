@@ -12,7 +12,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas Kgomo, and Richard Ngamita. "African Case Studies in AI Policy Development." To appear in the _Data for Policy Conference_, Data & Policy, Cambridge University Press, 2024.
 
-**Chinasa T. Okolo**. "Reforming Data Regulation to Advance AI Governance in Africa." _Foresight Africa_. The Brookings Institution, 2024.
+**Chinasa T. Okolo**. ["Reforming Data Regulation to Advance AI Governance in Africa."](https://www.brookings.edu/collection/foresight-africa-2024/) _Foresight Africa_. The Brookings Institution, 2024.
 
 **Chinasa T. Okolo**, Dhruv Agarwal, Aditya Vashistha, Nicola Dell. 
 ["`If it is easy to understand then it will have value': Examining Perceptions of Explainable AI with Community Health Workers in Rural India."](https://chinasatokolo.github.io/files/Okolo_CSCW_2024.pdf) To appear in the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, Volume 8, Issue CSCW1, Article No. 71, 2024. 
