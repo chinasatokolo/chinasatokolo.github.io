@@ -11,7 +11,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 ### 2024
 * **February 2024:** [University of Florida Center for African Studies Seminar Series](https://africa.ufl.edu/calendar/) — _Gainesville, FL_
 * **February 2024:** [Digital & AI: The Power of New Technology in Africa Panel at the Harvard Africa Health Conference](https://www.hsph.harvard.edu/africa-health-conference/agenda/) — _Cambridge, MA_
-* **February 2024:** [UT Austin Institute for Urban Policy Research & Analysis (IUPRA) Seminar Series on Race, Ethnicity, and Public Policy](https://liberalarts.utexas.edu/iupra/) — _Austin, TX_
+* **February 2024:** [UT Austin Institute for Urban Policy Research & Analysis (IUPRA) Seminar Series on Race, Ethnicity, and Public Policy](https://liberalarts.utexas.edu/iupra/events/globalizing-perspectives-on-ai-governance-africa-s-role-in-international-ai-cooperation) — _Austin, TX_
 * **February 2024:** [BEYA STEM Conference Panel on Inclusive Tech](https://s4.goeshow.com/ccgroup/beyastem/2024/full_schedule.cfm) — _Baltimore, MD_
 * **February 2024:** [German Federal Foreign Office](https://www.datainnovationlab.de) Data Innovation Lab Webinar — _Virtual_
 * **February 2024:** [Forum for Cooperation on AI (FCAI) Roundtable on AI Development and Inclusion of the Global South](https://www.brookings.edu/projects/the-forum-for-cooperation-on-artificial-intelligence/) — _Virtual_
