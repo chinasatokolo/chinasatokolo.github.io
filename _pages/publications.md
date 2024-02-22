@@ -18,7 +18,7 @@ Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas K
 ["`If it is easy to understand then it will have value': Examining Perceptions of Explainable AI with Community Health Workers in Rural India."](https://chinasatokolo.github.io/files/Okolo_CSCW_2024.pdf) To appear in the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, Volume 8, Issue CSCW1, Article No. 71, 2024. 
 
 ## 2023
-**Chinasa T. Okolo**. "AI in the Global South: Opportunities and challenges towards more inclusive governance." _TechTank_. The Brookings Institution, 2023.
+**Chinasa T. Okolo**. ["AI in the Global South: Opportunities and challenges towards more inclusive governance."](https://www.brookings.edu/articles/ai-in-the-global-south-opportunities-and-challenges-towards-more-inclusive-governance/) _TechTank_. The Brookings Institution, 2023.
 
 **Chinasa T. Okolo**. ["Addressing Global Inequity in AI Development."](https://chinasatokolo.github.io/files/Okolo_GIAID_2023.pdf) In the _Handbook of Critical Studies of Artificial Intelligence_. Edited by Simon Lindgren. Edward Elgar Publishers, 2023.
 
