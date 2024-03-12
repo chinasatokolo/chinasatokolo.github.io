@@ -8,7 +8,9 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Ljcd9nMAAAAJ&hl=en&oi=sra) or [ResearchGate](https://www.researchgate.net/profile/Chinasa-Okolo-2).
 
 ## 2024
-**Chinasa T. Okolo** and Hongjin Lin. "Practitioner Perspectives on Model Explainability in AI for Social Good." _Under review_, 2024.
+**Chinasa T. Okolo**. "Beyond AI Hype: A Hands-on Workshop Series for Enhancing AI Literacy in Middle and High School Students." To appear in the _Conference for Research on Equity and Sustained Participation in Engineering, Computing, and Technology_, 2024.
+
+**Chinasa T. Okolo** and Hongjin Lin. "Practitioner Perspectives on Model Explainability in AI for Social Good." To appear in the _Conference on Human Factors in Computing Systems (CHI)_, Late-breaking Work. 2024.
 
 Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas Kgomo, and Richard Ngamita. "African Case Studies in AI Policy Development." To appear in the _Data for Policy Conference_, Data & Policy, Cambridge University Press, 2024.
 
