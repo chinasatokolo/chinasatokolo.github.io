@@ -12,7 +12,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **March 2024:** [University of Maryland Values-Centered AI Seminar](https://talks.cs.umd.edu/talks/3730) — _College Park, MD_
 * **March 2024:** [CEPS Ideas Lab Plenary Session on the Future Governance of AI](https://www.ceps.eu/ceps-ideas-lab/) — _Brussels, Belgium_
 * **February 2024:** [University of Florida Center for African Studies Seminar Series](https://africa.ufl.edu/calendar/) — _Gainesville, FL_
-* **February 2024:** [Digital & AI: The Power of New Technology in Africa Panel at the Harvard Africa Health Conference](https://www.hsph.harvard.edu/africa-health-conference/agenda/) — _Cambridge, MA_
+* **February 2024:** [Digital & AI: The Power of New Technology in Africa Panel at the Harvard Africa Health Conference](https://www.hsph.harvard.edu/africa-health-conference/agenda/) ([Recording](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aaf933a8-66ea-4e9a-a626-b11800e86ec2)) — _Cambridge, MA_
 * **February 2024:** [UT Austin Institute for Urban Policy Research & Analysis (IUPRA) Seminar Series on Race, Ethnicity, and Public Policy](https://liberalarts.utexas.edu/iupra/events/globalizing-perspectives-on-ai-governance-africa-s-role-in-international-ai-cooperation) — _Austin, TX_
 * **February 2024:** [BEYA STEM Conference Panel on Inclusive Tech](https://s4.goeshow.com/ccgroup/beyastem/2024/full_schedule.cfm) — _Baltimore, MD_
 * **February 2024:** [German Federal Foreign Office](https://www.datainnovationlab.de) Data Innovation Lab Webinar — _Virtual_
