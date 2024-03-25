@@ -12,6 +12,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **April 2024:** [Stanford HAI AI+Policy Symposium: A Global Stocktaking](https://hai.stanford.edu/events/aipolicy-symposium-global-stocktaking) — _Stanford, CA_
 * **April 2024:** [I-GMAP Frontiers of Prevention Conference](https://frontiersofprevention.carrd.co/#) — _Binghamton, NY_
 * **April 2024:** CRPE Think Forward AI Learning Forum — _Albuquerque, NM_
+* **March 2024:** Inclusive AI Governance Lecture, Georgetown University — _Washington, D.C._
 * **March 2024:** [University of Maryland Values-Centered AI Seminar](https://talks.cs.umd.edu/talks/3730) — _College Park, MD_
 * **March 2024:** [CEPS Ideas Lab Plenary Session on the Future Governance of AI](https://www.ceps.eu/ceps-ideas-lab/) — _Brussels, Belgium_
 * **February 2024:** [University of Florida Center for African Studies Seminar Series](https://africa.ufl.edu/calendar/) — _Gainesville, FL_
