@@ -13,6 +13,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **April 2024:** [I-GMAP Frontiers of Prevention Conference](https://frontiersofprevention.carrd.co/#) — _Binghamton, NY_
 * **April 2024:** CRPE Think Forward AI Learning Forum — _Albuquerque, NM_
 * **March 2024:** Inclusive AI Governance Lecture, Georgetown University — _Washington, D.C._
+* **March 2024:** [Equiano Institute AI Fellowship](https://www.equiano.institute/governance) — _Virtual_
 * **March 2024:** [CEMRI](https://cemri.org/) Roundtable on the Implications of ChatGPT and Other AI Tools for Education in Africa — _Virtual_
 * **March 2024:** [University of Maryland Values-Centered AI Seminar](https://talks.cs.umd.edu/talks/3730) — _College Park, MD_
 * **March 2024:** [CEPS Ideas Lab Plenary Session on the Future Governance of AI](https://www.ceps.eu/ceps-ideas-lab/) — _Brussels, Belgium_
