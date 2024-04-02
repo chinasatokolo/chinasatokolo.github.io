@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Media Commentary
+* **April 2024:** [“Is this AI? See if you can spot the technology in your everyday life”](https://www.washingtonpost.com/technology/interactive/2024/what-is-ai/) in The Washington Post 
 * **March 2024:** [“Africa’s push to regulate AI starts now”](https://www.technologyreview.com/2024/03/15/1089844/africa-ai-artificial-intelligence-regulation-au-policy/) in MIT Technology Review 
 * **January 2024:** [“The dangers of AI in global development”](https://www.devex.com/news/the-dangers-of-ai-in-global-development-106798) in Devex 
 * **November 2023:** [“AI Needs Rules, but Who Will Get to Make Them?”](https://www.scientificamerican.com/article/who-actually-gets-to-make-the-rules-about-ai/) in Scientific American 
