@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Ljcd9nMAAAAJ&hl=en&oi=sra) or [ResearchGate](https://www.researchgate.net/profile/Chinasa-Okolo-2).
 
 ## 2024
-**Chinasa T. Okolo**. "Beyond AI Hype: A Hands-on Workshop Series for Enhancing AI Literacy in Middle and High School Students." To appear in the _Conference for Research on Equity and Sustained Participation in Engineering, Computing, and Technology_, 2024.
+**Chinasa T. Okolo**. "Beyond AI Hype: A Hands-on Workshop Series for Enhancing AI Literacy in Middle and High School Students." To appear in the _Conference for Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)_, 2024.
 
 **Chinasa T. Okolo** and Hongjin Lin. " 'You can’t build what you don’t understand': Practitioner Perspectives on Explainable AI in the Global South." To appear in the _Conference on Human Factors in Computing Systems (CHI)_, 2024.
 
