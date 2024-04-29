@@ -9,6 +9,7 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2024
+* **May 2024:** Keynote in the AI, Digital & Data Solutions for Health Session at UNDP’s HIV and Health Community of Practice Meeting  — _Virtual/Istanbul, Turkey_
 * **April 2024:** Mozilla Seminar: Incorporating Trustworthiness as a Grounding Principle for AI in Africa — _Virtual_
 * **April 2024:** [Stanford HAI AI+Policy Symposium: A Global Stocktaking](https://hai.stanford.edu/events/aipolicy-symposium-global-stocktaking) — _Stanford, CA_
 * **April 2024:** [I-GMAP Frontiers of Prevention Conference](https://frontiersofprevention.carrd.co/#) — _Binghamton, NY_
