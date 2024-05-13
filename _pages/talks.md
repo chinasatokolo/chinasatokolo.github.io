@@ -11,6 +11,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 ### 2024
 * **May 2024:** Keynote in the AI, Digital & Data Solutions for Health Session at UNDP’s HIV and Health Community of Practice Meeting  — _Virtual/Istanbul, Turkey_
 * **April 2024:** Mozilla Seminar: Incorporating Trustworthiness as a Grounding Principle for AI in Africa — _Virtual_
+* **April 2024:** ["The AI Revolution for Health in Africa"](https://healthtechafrica.org/the-ai-revolution-for-health-in-africa/) Podcast Episode for the African Institute for Development Policy — _Virtual_
 * **April 2024:** [Stanford HAI AI+Policy Symposium: A Global Stocktaking](https://hai.stanford.edu/events/aipolicy-symposium-global-stocktaking) — _Stanford, CA_
 * **April 2024:** [I-GMAP Frontiers of Prevention Conference](https://frontiersofprevention.carrd.co/#) — _Binghamton, NY_
 * **April 2024:** CRPE Think Forward AI Learning Forum, Anchoring AI in Policy and Politics of Change Session — _Albuquerque, NM_
