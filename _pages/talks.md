@@ -14,7 +14,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **April 2024:** ["The AI Revolution for Health in Africa"](https://healthtechafrica.org/the-ai-revolution-for-health-in-africa/) Podcast Episode for the African Institute for Development Policy — _Virtual_
 * **April 2024:** [Stanford HAI AI+Policy Symposium: A Global Stocktaking](https://hai.stanford.edu/events/aipolicy-symposium-global-stocktaking) — _Stanford, CA_
 * **April 2024:** [I-GMAP Frontiers of Prevention Conference](https://frontiersofprevention.carrd.co/#) — _Binghamton, NY_
-* **April 2024:** CRPE Think Forward AI Learning Forum, Anchoring AI in Policy and Politics of Change Session — _Albuquerque, NM_
+* **April 2024:** CRPE Think Forward AI Learning Forum, "Anchoring AI in Policy and Politics of Change" Session — _Albuquerque, NM_
 * **March 2024:** Inclusive AI Governance Lecture, Georgetown University — _Washington, D.C._
 * **March 2024:** [Equiano Institute AI Fellowship](https://www.equiano.institute/governance) — _Virtual_
 * **March 2024:** [CEMRI](https://cemri.org/) Roundtable on the Implications of ChatGPT and Other AI Tools for Education in Africa — _Virtual_
