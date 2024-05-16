@@ -8,11 +8,13 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Ljcd9nMAAAAJ&hl=en&oi=sra) or [ResearchGate](https://www.researchgate.net/profile/Chinasa-Okolo-2).
 
 ## 2024
-**Chinasa T. Okolo**. "Beyond AI Hype: A Hands-on Workshop Series for Enhancing AI Literacy in Middle and High School Students." To appear in the _Conference for Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)_, 2024.
-
-**Chinasa T. Okolo** and Hongjin Lin. " 'You can’t build what you don’t understand': Practitioner Perspectives on Explainable AI in the Global South." To appear in the _Conference on Human Factors in Computing Systems (CHI)_, 2024.
-
 Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas Kgomo, and Richard Ngamita. "African Case Studies in AI Policy Development." To appear in the _Data for Policy Conference_, Data & Policy, Cambridge University Press, 2024.
+
+Charles Asiegbu and **Chinasa T. Okolo**. ["How AI is Impacting Policy Processes and Outcomes in Africa."](https://www.brookings.edu/articles/how-ai-is-impacting-policy-processes-and-outcomes-in-africa/) _TechTank_. The Brookings Institution, 2024.
+
+**Chinasa T. Okolo**. ["Beyond AI Hype: A Hands-on Workshop Series for Enhancing AI Literacy in Middle and High School Students."](https://chinasatokolo.github.io/files/Okolo_RESPECT_2024.pdf) In the _Conference for Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)_, 2024.
+
+**Chinasa T. Okolo** and Hongjin Lin. [" 'You can’t build what you don’t understand': Practitioner Perspectives on Explainable AI in the Global South."](https://chinasatokolo.github.io/files/Okolo_CHI-LBW_2024.pdf) In the _Conference on Human Factors in Computing Systems (CHI)_, 2024.
 
 **Chinasa T. Okolo**. ["Reforming Data Regulation to Advance AI Governance in Africa."](https://chinasatokolo.github.io/files/Okolo_ForesightAfrica_2024.pdf) _Foresight Africa_. The Brookings Institution, 2024.
 
