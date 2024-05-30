@@ -8,6 +8,7 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Ljcd9nMAAAAJ&hl=en&oi=sra) or [ResearchGate](https://www.researchgate.net/profile/Chinasa-Okolo-2).
 
 ## 2024
+Hongjin Lin, Naveena Karusala, **Chinasa T. Okolo**, Catherine D’Ignazio, and Krzysztof Gajos. " 'Come to us first': Centering Community Organizations in Artificial Intelligence for Social Good Partnerships." To appear in the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, 2024.
 
 **Chinasa T. Okolo**. "African Democracy in the Era of Generative Disinformation: Challenges and Countermeasures against AI-Generated Propaganda." To appear at the _Building a Just AI Ecosystem in Africa Conference_, Research ICT Africa, 2024.
 
@@ -24,7 +25,7 @@ Charles Asiegbu and **Chinasa T. Okolo**. ["How AI is Impacting Policy Processes
 **Chinasa T. Okolo**. ["Reforming Data Regulation to Advance AI Governance in Africa."](https://chinasatokolo.github.io/files/Okolo_ForesightAfrica_2024.pdf) _Foresight Africa_. The Brookings Institution, 2024.
 
 **Chinasa T. Okolo**, Dhruv Agarwal, Aditya Vashistha, Nicola Dell. 
-[" 'If it is easy to understand then it will have value': Examining Perceptions of Explainable AI with Community Health Workers in Rural India."](https://chinasatokolo.github.io/files/Okolo_CSCW_2024.pdf) To appear in the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, Volume 8, Issue CSCW1, Article No. 71, 2024. 
+[" 'If it is easy to understand then it will have value': Examining Perceptions of Explainable AI with Community Health Workers in Rural India."](https://chinasatokolo.github.io/files/Okolo_CSCW_2024.pdf) In the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, Volume 8, Issue CSCW1, Article No. 71, 2024. 
 
 ## 2023
 **Chinasa T. Okolo**. ["AI in the Global South: Opportunities and challenges towards more inclusive governance."](https://www.brookings.edu/articles/ai-in-the-global-south-opportunities-and-challenges-towards-more-inclusive-governance/) _TechTank_. The Brookings Institution, 2023.
