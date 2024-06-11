@@ -8,7 +8,10 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
-### 2024
+### 2024 
+* **July 2024:** Design Justice AI Global Humanities Institute — _Pretoria, South Africa_
+* **June 2024:** University of Johannesburg "Artificial Intelligence, Elections, and the Future of Democracy and Leadership: Global Experiences and Directions" — _Virtual_
+* **June 2024:** “Building a Just AI Ecosystem in Africa” Just AI Conference  — _Cape Town, South Africa_
 * **June 2024:** FII PRIORITY Summit Rio de Janeiro Conclave: Accelerating Responsible AI in Emerging Markets — _Rio de Janeiro, Brazil_
 * **May 2024:** "An African Perspective on AI Governance" Roundtable, Carnegie Endowment for International Peace — _Washington, D.C._
 * **May 2024:** Keynote in the AI, Digital & Data Solutions for Health Session at UNDP’s HIV and Health Community of Practice Meeting  — _Virtual/Istanbul, Turkey_
