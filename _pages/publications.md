@@ -14,6 +14,8 @@ Hongjin Lin, Naveena Karusala, **Chinasa T. Okolo**, Catherine D’Ignazio, and 
 
 Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas Kgomo, and Richard Ngamita. "African Case Studies in AI Policy Development." To appear in the _Data for Policy Conference_, Data & Policy, Cambridge University Press, 2024.
 
+Microsoft Research Africa, Nairobi. [AI and the Future of Work in Africa](https://www.microsoft.com/en-us/research/project/ai-and-the-future-of-work-in-africa/white-paper/). Microsoft, 2024.
+
 UK Government Secretariat and Mila-Quebec AI Institute. [International Scientific Report on the Safety of Advanced AI - Interim Report](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai). United Kingdom Department for Science, Innovation, and Technology, 2024.
 
 Charles Asiegbu and **Chinasa T. Okolo**. ["How AI is Impacting Policy Processes and Outcomes in Africa."](https://www.brookings.edu/articles/how-ai-is-impacting-policy-processes-and-outcomes-in-africa/) _TechTank_. The Brookings Institution, 2024.
