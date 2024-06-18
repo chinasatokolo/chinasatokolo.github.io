@@ -36,7 +36,7 @@ Charles Asiegbu and **Chinasa T. Okolo**. ["How AI is Impacting Policy Processes
 
 **Chinasa T. Okolo**. ["The Promise and Perils of Generative AI: Case Studies in an African Context."](https://chinasatokolo.github.io/files/Okolo_AfriCHI_2023.pdf) In the _African Conference for Human Computer Interaction (AfriCHI)_, 2023.
 
-**Chinasa T. Okolo**. ["AI Explainability in the Global South: Towards an Inclusive Praxis for Emerging Technology Users."](https://www.researchgate.net/publication/373864304_AI_Explainability_in_the_Global_South_Towards_an_Inclusive_Praxis_for_Emerging_Technology_Users) Dissertation, 2023.
+**Chinasa T. Okolo**. ["AI Explainability in the Global South: Towards an Inclusive Praxis for Emerging Technology Users."](https://www.researchgate.net/publication/373864304_AI_Explainability_in_the_Global_South_Towards_an_Inclusive_Praxis_for_Emerging_Technology_Users) Dissertation. Cornell University, 2023.
 
 **Chinasa T. Okolo**. ["Towards a Praxis for Intercultural Ethics in Explainable AI."](https://chinasatokolo.github.io/files/Okolo_InterEthics_2023.pdf) In the _Many Worlds of AI Conference_, 2023.
 
