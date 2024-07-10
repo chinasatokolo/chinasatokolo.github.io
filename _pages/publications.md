@@ -10,7 +10,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 ## 2024
 Hongjin Lin, Naveena Karusala, **Chinasa T. Okolo**, Catherine D’Ignazio, and Krzysztof Gajos. " 'Come to us first': Centering Community Organizations in Artificial Intelligence for Social Good Partnerships." To appear in the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, 2024.
 
-**Chinasa T. Okolo**. "Operationalizing Comprehensive Data Governance in Africa." To appear in the African Journal of Sustainable Development (AJSD) Special Issue: “Redefining African Futures: The State, Resilience, and Pathways to Progress." Edited in partnership with the UN Office of the Special Advisor on Africa (OSAA) and the UN Sustainable Development Solutions Network (SDSN). 2024.
+**Chinasa T. Okolo**. "Operationalizing Comprehensive Data Governance in Africa." To appear in the _African Journal of Sustainable Development (AJSD) Special Issue: “Redefining African Futures: The State, Resilience, and Pathways to Progress._" Edited in partnership with the UN Office of the Special Advisor on Africa (OSAA) and the UN Sustainable Development Solutions Network (SDSN). 2024.
 
 **Chinasa T. Okolo**. "African Democracy in the Era of Generative Disinformation: Challenges and Countermeasures against AI-Generated Propaganda." In the _Building a Just AI Ecosystem in Africa Conference_, Research ICT Africa, 2024.
 
