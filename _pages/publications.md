@@ -31,6 +31,10 @@ Charles Asiegbu and **Chinasa T. Okolo**. ["How AI is Impacting Policy Processes
 **Chinasa T. Okolo**, Dhruv Agarwal, Aditya Vashistha, Nicola Dell. 
 [" 'If it is easy to understand then it will have value': Examining Perceptions of Explainable AI with Community Health Workers in Rural India."](https://chinasatokolo.github.io/files/Okolo_CSCW_2024.pdf) In the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, Volume 8, Issue CSCW1, Article No. 71, 2024. 
 
+African Union Development Agency (AUDA-NEPAD). ["AUDA-NEPAD White Paper: Regulation and Responsible Adoption of AI in Africa Towards Achievement of AU Agenda 2063".](https://chinasatokolo.github.io/files/Okolo_AUWhitePaper_2024.pdf) African Union, 2024.
+
+African Union Development Agency (AUDA-NEPAD). ["AUDA-NEPAD Artificial Intelligence Roadmap for Africa: Roadmap for Africa: Contributing Towards A Continental AU Strategy On AI".](https://chinasatokolo.github.io/files/Okolo_AURoadmap_2024.pdf) African Union, 2024.
+
 ## 2023
 **Chinasa T. Okolo**. ["AI in the Global South: Opportunities and challenges towards more inclusive governance."](https://www.brookings.edu/articles/ai-in-the-global-south-opportunities-and-challenges-towards-more-inclusive-governance/) _TechTank_. The Brookings Institution, 2023.
 
