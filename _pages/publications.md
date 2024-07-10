@@ -12,11 +12,11 @@ Hongjin Lin, Naveena Karusala, **Chinasa T. Okolo**, Catherine D’Ignazio, and 
 
 **Chinasa T. Okolo**. "Operationalizing Comprehensive Data Governance in Africa." To appear in the _African Journal of Sustainable Development (AJSD) Special Issue: “Redefining African Futures: The State, Resilience, and Pathways to Progress._" Edited in partnership with the UN Office of the Special Advisor on Africa (OSAA) and the UN Sustainable Development Solutions Network (SDSN). 2024.
 
-**Chinasa T. Okolo**. "African Democracy in the Era of Generative Disinformation: Challenges and Countermeasures against AI-Generated Propaganda." In the _Building a Just AI Ecosystem in Africa Conference_, Research ICT Africa, 2024.
-
 Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas Kgomo, and Richard Ngamita. "African Case Studies in AI Policy Development." In the _Data for Policy Conference_, Data & Policy, Cambridge University Press, 2024.
 
 Dorcas Nyamwaya, Susan Otieno, **Chinasa T. Okolo**, Abigail Oppong, and Jonas Kgomo. "Towards A Fair and Equitable Data Ecosystem for Low Resource Languages." In the _Data for Policy Conference_, Data & Policy, Cambridge University Press, 2024.
+
+**Chinasa T. Okolo**. "African Democracy in the Era of Generative Disinformation: Challenges and Countermeasures against AI-Generated Propaganda." In the _Building a Just AI Ecosystem in Africa Conference_, Research ICT Africa, 2024.
 
 Microsoft Research Africa, Nairobi. [AI and the Future of Work in Africa](https://www.microsoft.com/en-us/research/project/ai-and-the-future-of-work-in-africa/white-paper/). Microsoft, 2024.
 
