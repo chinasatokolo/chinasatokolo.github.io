@@ -16,7 +16,7 @@ Hongjin Lin, Naveena Karusala, **Chinasa T. Okolo**, Catherine D’Ignazio, and 
 
 Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas Kgomo, and Richard Ngamita. "African Case Studies in AI Policy Development." In the _Data for Policy Conference_, Data & Policy, Cambridge University Press, 2024.
 
-Dorcas Nyamwaya, Susan Otieno, **Chinasa T. Okolo**, Abigail Oppong, and Jonas Kgomo. "Towards A Fair and Equitable Data Ecosystem for Low Resource Languages." In the Data for Policy Conference, Data & Policy, Cambridge University Press, 2024.
+Dorcas Nyamwaya, Susan Otieno, **Chinasa T. Okolo**, Abigail Oppong, and Jonas Kgomo. "Towards A Fair and Equitable Data Ecosystem for Low Resource Languages." In the _Data for Policy Conference_, Data & Policy, Cambridge University Press, 2024.
 
 Microsoft Research Africa, Nairobi. [AI and the Future of Work in Africa](https://www.microsoft.com/en-us/research/project/ai-and-the-future-of-work-in-africa/white-paper/). Microsoft, 2024.
 
