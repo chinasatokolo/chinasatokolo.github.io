@@ -42,7 +42,9 @@ African Union Development Agency (AUDA-NEPAD). ["AUDA-NEPAD Artificial Intellige
 
 **Chinasa T. Okolo**. ["Addressing Global Inequity in AI Development."](https://chinasatokolo.github.io/files/Okolo_GIAID_2023.pdf) In the _Handbook of Critical Studies of Artificial Intelligence_. Edited by Simon Lindgren. Edward Elgar Publishers, 2023.
 
-**Chinasa T. Okolo**. ["The Promise and Perils of Generative AI: Case Studies in an African Context."](https://chinasatokolo.github.io/files/Okolo_AfriCHI_2023.pdf) In the _African Conference for Human Computer Interaction (AfriCHI)_, 2023.
+**Chinasa T. Okolo**. ["The Promise and Perils of Generative AI: Case Studies in an African Context."(https://chinasatokolo.github.io/files/Okolo_AfriCHI_2023.pdf) In the _African Conference for Human Computer Interaction (AfriCHI)_, 2023.
+
+**Chinasa T. Okolo**. ["Navigating the Limits of AI Explainability: Designing for Novice Technology Users in Low-Resource Settings."](https://www.researchgate.net/publication/373496292_Navigating_the_Limits_of_AI_Explainability_Designing_for_Novice_Technology_Users_in_Low-Resource_Settings) In AIES '23: AAAI/ACM Conference on AI, Ethics, and Society, 2023.
 
 **Chinasa T. Okolo**. ["AI Explainability in the Global South: Towards an Inclusive Praxis for Emerging Technology Users."](https://www.researchgate.net/publication/373864304_AI_Explainability_in_the_Global_South_Towards_an_Inclusive_Praxis_for_Emerging_Technology_Users) Dissertation. Cornell University, 2023.
 
