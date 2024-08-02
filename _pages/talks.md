@@ -18,6 +18,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **June 2024:** [The Economics of AI in Africa](https://www.youtube.com/watch?v=XYdp_vjCNb4) with HoaQ Club — _Remote_ 
 * **June 2024:** ["Where does Society Stand on Responsible AI?"](https://youtu.be/LNf8gSsQpm4?feature=shared) Panel at the Global Digital Development Forum — _Washington, D.C._  
 * **June 2024:** FII PRIORITY Summit Rio de Janeiro Conclave: Accelerating Responsible AI in Emerging Markets — _Rio de Janeiro, Brazil_
+* **May 2024:** AI Research Group Seminar, Georgia Tech School of Public Policy — _Remote_
 * **May 2024:** "An African Perspective on AI Governance" Roundtable, Carnegie Endowment for International Peace — _Washington, D.C._
 * **May 2024:** Keynote in the AI, Digital & Data Solutions for Health Session at UNDP’s HIV and Health Community of Practice Meeting  — _Virtual/Istanbul, Turkey_
 * **April 2024:** Mozilla Seminar: Incorporating Trustworthiness as a Grounding Principle for AI in Africa — _Virtual_
