@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Media Commentary
+* **July 2024:** [“When A.I. Fails the Language Test, Who Is Left Out of the Conversation?”](https://www.nytimes.com/2024/07/26/technology/ai-language-gap.html) in the New York Times
 * **June 2024:** [“World leaders discuss AI as China’s digital influence in Latin America grows”](https://www.voanews.com/a/world-leaders-discuss-ai-as-china-s-digital-influence-in-latin-america-grows-/7656592.html) in Voice of America
 * **June 2024:** [“A little-known AI startup is behind Nigeria’s first government-backed LLM”](https://restofworld.org/2024/nigeria-awarri-ai-startup-llm/) in Rest of World
 * **June 2024:** [“Once a Red Line, Connecticut Reps Press for Regulating Tech Sector”](https://ctexaminer.com/2024/06/03/once-a-red-line-connecticut-reps-press-for-regulating-tech-sector/) in CT Examiner
