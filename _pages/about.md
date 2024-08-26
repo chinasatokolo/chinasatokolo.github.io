@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-_Note: I am out of office until late August. I will respond to all inquiries and requests upon my return._
 
 I am a Fellow in the [Center for Technology Innovation](https://www.brookings.edu/centers/center-for-technology-innovation/) at The Brookings Institution and a recent Ph.D. graduate from the Department of Computer Science at Cornell University. At Cornell, my research leveraged ethnographic methods to understand how frontline healthcare workers in rural India perceive and value AI and analyzed how AI explainability can meet the needs of novice technology users in the Global South. My work has been published at top-tier venues in HCI and sociotechnical computing, including the Association for Computing Machinery's (ACM) CHI, CSCW, COMPASS, and EAAMO conferences. I have also been recognized as a [global top Futurist](https://www.mipad.org/classof2024/) in recognition of the United Nations’ International Decade for People of African Descent, a [Trailblazer in Engineering](https://engineering.purdue.edu/Engr/Trailblazers/Fellows), a [Rising Star in Management Science & Engineering](https://msandedei.stanford.edu/events/rising-stars), and one of [100 Brilliant Women in AI Ethics™](https://womeninaiethics.org/the-list/of-2022/).
 
