@@ -10,7 +10,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 ### 2024 
 * **September 2024:** ["Empowering African Voices in AI: Data, Models, and Innovation"](https://datasciencelawlab.africa/deep-learning-indaba-workshop-2024/) workshop at Deep Learning Indaba — _Dakar, Senegal_
-* **September 2024:** "Examining the Datafication of African Consumers through Digital Microlending" at the [Data Power](https://datapowerconference.org/data-power-2024/programme/) Conference — _Remote_
+* **September 2024:** "Examining the Datafication of African Consumers through Digital Microlending", [Data Power Conference](https://datapowerconference.org/data-power-2024/programme/) — _Remote_
 * **August 2024:** ["The Realities of Women in Artificial Intelligence"](https://www.voaafrica.com/a/7765549.html) Segment on Voice of America _"Our Voices"_ Program — _Washington, D.C._
 * **July 2024:** [Deep Learning IndabaX Uganda](https://indabaxug.github.io ) — _Virtual_
 * **July 2024:** [SSRC Workshop on “Drilling Down to the Data: Navigating Data Politics at the Heart of AI Policy](https://www.ssrc.org/programs/data-fluencies/2024-data-fluencies-research-workshop-drilling-down-to-the-data-navigating-data-politics-at-the-heart-of-ai-policy/) — _Brooklyn, NY_
