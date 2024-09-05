@@ -17,7 +17,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **July 2024:** [Salesforce Global AI Leadership Summit](https://events.eurasiagroup.net/event/ai-leadership-summit-2024/summary) — _New York, NY_ 
 * **July 2024:** [Design Justice AI Global Humanities Institute](https://www.youtube.com/watch?v=0qPi4s5uMC4) — _Pretoria, South Africa_
 * **June 2024:** University of Johannesburg "Artificial Intelligence, Elections, and the Future of Democracy and Leadership: Global Experiences and Directions" — _Virtual_
-* **June 2024:** “Building a Just AI Ecosystem in Africa” Just AI Conference  — _Cape Town, South Africa_
+* **June 2024:** “Building a Just AI Ecosystem in Africa” [Just AI Conference](https://researchictafrica.net/2024/02/02/call-for-papers-building-a-just-ai-ecosystem-in-africa/) — _Cape Town, South Africa_
 * **June 2024:** [The Economics of AI in Africa](https://www.youtube.com/watch?v=XYdp_vjCNb4) with HoaQ Club — _Remote_ 
 * **June 2024:** ["Where does Society Stand on Responsible AI?"](https://youtu.be/LNf8gSsQpm4?feature=shared) Panel at the Global Digital Development Forum — _Washington, D.C._  
 * **June 2024:** FII PRIORITY Summit Rio de Janeiro Conclave: Accelerating Responsible AI in Emerging Markets — _Rio de Janeiro, Brazil_
