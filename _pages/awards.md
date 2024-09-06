@@ -7,6 +7,7 @@ author_profile: true
 A list of awards and honors received by Dr. Chinasa T. Okolo.
 
 ## Awards
+* **Sep 2024:** TIME 100 AI: The 100 Most Influential People in AI 2024
 * **April 2024:** Most Influential People of African Descent (MIPAD) Class of 2024 Global Top 100 Futurists and Innovators
 * **July 2023:** Trailblazers in Engineering, Purdue University
 * **May 2023:** Rising Stars in Management Science & Engineering, Stanford University
