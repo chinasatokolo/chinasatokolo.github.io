@@ -9,7 +9,7 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2024 
-* **September 2024:** ["The Transformative Power of AI"](https://time.com/7021119/time100-impact-dinner-ai-transformative-potential-kurzweil-okolo-kelly-kumar/) panel at TIME100 Impact Dinner: Leaders Shaping the Future of AI — _San Francisco, CA_
+* **September 2024:** ["The Transformative Power of AI"](https://time.com/7021119/time100-impact-dinner-ai-transformative-potential-kurzweil-okolo-kelly-kumar/) panel at the TIME100 Impact Dinner: Leaders Shaping the Future of AI — _San Francisco, CA_
 * **September 2024:** ["The Promise and Perils of AI: Issues at Stake in the 2024 Election"](https://www.brookings.edu/events/2024-election-promise-and-perils-of-ai/) event in collaboration with The Brookings Institution and Spelman College — _Atlanta, GA
 * **September 2024:** ["Empowering African Voices in AI: Data, Models, and Innovation"](https://datasciencelawlab.africa/deep-learning-indaba-workshop-2024/) workshop at Deep Learning Indaba — _Dakar, Senegal_
 * **September 2024:** "Examining the Datafication of African Consumers through Digital Microlending", [Data Power Conference](https://datapowerconference.org/data-power-2024/programme/) — _Remote_
