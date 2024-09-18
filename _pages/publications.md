@@ -8,9 +8,11 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Ljcd9nMAAAAJ&hl=en&oi=sra) or [ResearchGate](https://www.researchgate.net/profile/Chinasa-Okolo-2).
 
 ## 2024
-Hongjin Lin, Naveena Karusala, **Chinasa T. Okolo**, Catherine D’Ignazio, and Krzysztof Gajos. " 'Come to us first': Centering Community Organizations in Artificial Intelligence for Social Good Partnerships." To appear in the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, 2024.
+Hongjin Lin, Naveena Karusala, **Chinasa T. Okolo**, Catherine D’Ignazio, and Krzysztof Gajos. "[ 'Come to us first': Centering Community Organizations in Artificial Intelligence for Social Good Partnerships."](https://chinasatokolo.github.io/files/Okolo_CSCW_2024-AI4SG.pdf) To appear in the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, 2024.
 
-**Chinasa T. Okolo** and Hongjin Lin. "Explainable AI in Practice: Practitioner Perspectives on AI for Social Good and User Engagement in the Global South." To appear in the _ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)_, 2024.
+**Chinasa T. Okolo** and Hongjin Lin. ["Explainable AI in Practice: Practitioner Perspectives on AI for Social Good and User Engagement in the Global South."](https://chinasatokolo.github.io/files/Okolo_EAAMO_2024.pdf) To appear in the _ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)_, 2024.
+
+**Chinasa T. Okolo**. ["Examining the capabilities and risks of advanced AI systems."](https://www.brookings.edu/articles/examining-advanced-ai-capabilities-and-risks/) _TechTank_. The Brookings Institution, 2024.
 
 **Chinasa T. Okolo**. "Operationalizing Comprehensive Data Governance in Africa." To appear in the _African Journal of Sustainable Development (AJSD) Special Issue: “Redefining African Futures: The State, Resilience, and Pathways to Progress._" Edited in partnership with the UN Office of the Special Advisor on Africa (OSAA) and the UN Sustainable Development Solutions Network (SDSN). 2024.
 
@@ -18,7 +20,7 @@ Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas K
 
 <!-- Dorcas Nyamwaya, Susan Otieno, **Chinasa T. Okolo**, Abigail Oppong, and Jonas Kgomo. "Towards A Fair and Equitable Data Ecosystem for Low Resource Languages." In the _Data for Policy Conference_, Data & Policy, Cambridge University Press, 2024.-->
 
-**Chinasa T. Okolo**. "African Democracy in the Era of Generative Disinformation: Challenges and Countermeasures against AI-Generated Propaganda." In the _Building a Just AI Ecosystem in Africa Conference_, Research ICT Africa, 2024.
+**Chinasa T. Okolo**. ["African Democracy in the Era of Generative Disinformation: Challenges and Countermeasures against AI-Generated Propaganda."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4885958) In the _Building a Just AI Ecosystem in Africa Conference_, Research ICT Africa, 2024.
 
 Microsoft Research Africa, Nairobi. [AI and the Future of Work in Africa](https://www.microsoft.com/en-us/research/project/ai-and-the-future-of-work-in-africa/white-paper/). Microsoft, 2024.
 
