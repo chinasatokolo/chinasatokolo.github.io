@@ -10,6 +10,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 ### 2024 
 * **October 2024:** Georgia Tech [Summit on Responsible Computing, AI, and Society](https://rcais.github.io/) — _Atlanta, GA_
+* **October 2024:** [Michigan AI Seminar](https://ai.engin.umich.edu/events/) — _Ann Arbor, MI_
 * **September 2024:** Wilson Center Science and Technology Innovation Program (STIP) Roundtable on AI in the Global South — _New York, NY_
 * **September 2024:** "The State of AI Governance in the African Union" panel at The Research Conference on Communications, Information and Internet Policy (TPRC) — _Washington, D.C._
 * **September 2024:** ["The Transformative Power of AI"](https://time.com/7021119/time100-impact-dinner-ai-transformative-potential-kurzweil-okolo-kelly-kumar/) panel at the TIME100 Impact Dinner: Leaders Shaping the Future of AI — _San Francisco, CA_
