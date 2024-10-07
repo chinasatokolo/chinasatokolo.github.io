@@ -9,9 +9,9 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2024 
+* **October 2024:** Georgia Tech [Summit on Responsible Computing, AI, and Society](https://rcais.github.io/) — _Atlanta, GA_
 * **October 2024:** MacArthur Foundation "Technology, Media, and Democracy" Panel — _Remote_
 * **October 2024:** [American Women for International Understanding (AWIU) COIR Symposium](https://awiu.org/coir-2024/2024-coir-symposium-program/) — _Washington, D.C._
-* **October 2024:** Georgia Tech [Summit on Responsible Computing, AI, and Society](https://rcais.github.io/) — _Atlanta, GA_
 * **October 2024:** [Charting an AI Roadmap for the Emerging World](https://www.youtube.com/watch?app=desktop&v=itGA6F2l4_s) on the Siliconsciousness podcast — _Remote_
 * **October 2024:** [Michigan AI Seminar](https://ai.engin.umich.edu/events/) — _Ann Arbor, MI_
 * **October 2024:** [Fundraising.AI Summit](https://app.experiencewelcome.com/events/vgurAv) — _Remote_
