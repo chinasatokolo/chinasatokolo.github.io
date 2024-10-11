@@ -9,6 +9,7 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2024 
+* **October 2024:** Wharton Lauder Institute Africa Regional Seminar — _Philadelphia, PA_
 * **October 2024:** Georgia Tech [Summit on Responsible Computing, AI, and Society](https://rcais.github.io/) — _Atlanta, GA_
 * **October 2024:** MacArthur Foundation "Technology, Media, and Democracy" Panel — _Remote_
 * **October 2024:** [American Women for International Understanding (AWIU) COIR Symposium](https://awiu.org/coir-2024/2024-coir-symposium-program/) — _Washington, D.C._
