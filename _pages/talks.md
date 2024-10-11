@@ -11,7 +11,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 ### 2024 
 * **October 2024:** Georgia Tech [Summit on Responsible Computing, AI, and Society](https://rcais.github.io/) — _Atlanta, GA_
 * **October 2024:** Wharton Lauder Institute Africa Regional Seminar — _Philadelphia, PA_
-* **October 2024:** "AI Governance: Navigating the Ethics and Regulation of Emerging Technologies in Media & Communication" panel at Johns Hopkins SAIS — _Washington, D.C._
+* **October 2024:** "AI Governance: Navigating the Ethics and Regulation of Emerging Technologies in Media & Communication" panel at Johns Hopkins — _Washington, D.C._
 * **October 2024:** MacArthur Foundation "Technology, Media, and Democracy" Panel — _Remote_
 * **October 2024:** [American Women for International Understanding (AWIU) COIR Symposium](https://awiu.org/coir-2024/2024-coir-symposium-program/) — _Washington, D.C._
 * **October 2024:** [Charting an AI Roadmap for the Emerging World](https://www.youtube.com/watch?app=desktop&v=itGA6F2l4_s) on the Siliconsciousness podcast — _Remote_
