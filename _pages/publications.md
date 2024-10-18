@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Ljcd9nMAAAAJ&hl=en&oi=sra) or [ResearchGate](https://www.researchgate.net/profile/Chinasa-Okolo-2).
 
 ## 2024
-Sumaya N. Adan, Robert Trager, Kayla Blomquist, Claire Dennis, Gemma Edom, Lucia Velasco, Cecil Abungu, Ben Garfinkel, Julian Jacobs, **Chinasa T. Okolo**, Boxi Wu, Jai Vipra. ["Voice and Access in AI: Global AI Majority Participation in Artificial Intelligence Development and Governance."](https://www.oxfordmartin.ox.ac.uk/publications/voice-and-access-in-ai-global-ai-majority-participation-in-artificial-intelligence-development-and-governance). Oxford Martin AI Governance Initiative, 2024.
+Sumaya N. Adan, Robert Trager, Kayla Blomquist, Claire Dennis, Gemma Edom, Lucia Velasco, Cecil Abungu, Ben Garfinkel, Julian Jacobs, **Chinasa T. Okolo**, Boxi Wu, Jai Vipra. ["Voice and Access in AI: Global AI Majority Participation in Artificial Intelligence Development and Governance."](https://www.oxfordmartin.ox.ac.uk/publications/voice-and-access-in-ai-global-ai-majority-participation-in-artificial-intelligence-development-and-governance) Oxford Martin AI Governance Initiative, 2024.
 
 Hongjin Lin, Naveena Karusala, **Chinasa T. Okolo**, Catherine D’Ignazio, and Krzysztof Gajos. [" 'Come to us first': Centering Community Organizations in Artificial Intelligence for Social Good Partnerships."](https://chinasatokolo.github.io/files/Okolo_CSCW_2024-AI4SG.pdf) To appear in the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, 2024.
 
