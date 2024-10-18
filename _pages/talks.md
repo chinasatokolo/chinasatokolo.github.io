@@ -9,6 +9,7 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2024 
+* **November 2024:** [AI in Africa Workshop](https://sites.google.com/view/aia2024) at the ACM International Conference on AI in Finance (ICAIF ‘24) — _Remote_
 * **October 2024:** Georgia Tech [Summit on Responsible Computing, AI, and Society](https://rcais.github.io/) — _Atlanta, GA_
 * **October 2024:** Wharton Lauder Institute Africa Regional Seminar — _Philadelphia, PA_
 * **October 2024:** [Global Action Forum](https://www.cas-strategies.com/forum) — _Washington, D.C._
