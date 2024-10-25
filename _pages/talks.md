@@ -13,7 +13,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **November 2024:** [AI in Africa Workshop](https://sites.google.com/view/aia2024) at the ACM International Conference on AI in Finance (ICAIF ‘24) — _Remote_
 * **October 2024:** Georgia Tech [Summit on Responsible Computing, AI, and Society](https://rcais.github.io/) — _Atlanta, GA_
 * **October 2024:** Wharton Lauder Institute Africa Regional Seminar — _Philadelphia, PA_
-* **October 2024:** Segment on Voice of America _"Straight Talk Africa"_ Program — _Washington, D.C._
+* **October 2024:** Segment on [Voice of America _"Straight Talk Africa"_ Program](https://www.voaafrica.com/a/7836268.html) — _Washington, D.C._
 * **October 2024:** [Global Action Forum](https://www.cas-strategies.com/forum) — _Washington, D.C._
 * **October 2024:** University of Kansas African Studies Center Symposium on the Ethics of AI in Africa — _Remote_
 * **October 2024:** "AI Governance: Navigating the Ethics and Regulation of Emerging Technologies in Media & Communication" panel at Johns Hopkins — _Washington, D.C._
