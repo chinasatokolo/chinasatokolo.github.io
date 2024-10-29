@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ## Media Commentary
-* **October 2024:** Segment on [Voice of America _"Straight Talk Africa"_ Program](https://www.voaafrica.com/a/7836268.html) — _Washington, D.C._
+* **October 2024:** Segment on [Voice of America _"Straight Talk Africa"_ Program](https://www.voaafrica.com/a/7836268.html)
 * **September 2024:** ["At TIME100 Impact Dinner, AI Leaders Discuss the Technology’s Transformative Potential"](https://time.com/7021119/time100-impact-dinner-ai-transformative-potential-kurzweil-okolo-kelly-kumar/) in TIME
 * **September 2024:** ["Nigeria begins AI push with Google-backed fund"](https://www.semafor.com/article/09/12/2024/nigeria-begins-ai-push-with-google-backed-fund) in Semafor
-* **August 2024:** ["The Realities of Women in Artificial Intelligence"](https://www.voaafrica.com/a/7765549.html) Segment on Voice of America _"Our Voices"_ — _Washington, D.C._
+* **August 2024:** ["The Realities of Women in Artificial Intelligence"](https://www.voaafrica.com/a/7765549.html) Segment on Voice of America "Our Voices" Program
 * **July 2024:** [“When A.I. Fails the Language Test, Who Is Left Out of the Conversation?”](https://www.nytimes.com/2024/07/26/technology/ai-language-gap.html) in the New York Times
 * **June 2024:** [“World leaders discuss AI as China’s digital influence in Latin America grows”](https://www.voanews.com/a/world-leaders-discuss-ai-as-china-s-digital-influence-in-latin-america-grows-/7656592.html) in Voice of America
 * **June 2024:** [“A little-known AI startup is behind Nigeria’s first government-backed LLM”](https://restofworld.org/2024/nigeria-awarri-ai-startup-llm/) in Rest of World
@@ -27,6 +27,7 @@ author_profile: true
 
 
 ## Media & Research Features
+* **October 2024:** [Interview](https://www.youtube.com/watch?v=lJTFOZQplcc) with Channels TV
 * **September 2024:** [“TIME Magazine Names Chinasa T. Okolo ’18 One of 100 Most Influential People in AI”](https://www.pomona.edu/news/2024/09/16-time-magazine-names-chinasa-t-okolo-18-one-100-most-influential-people-ai) by Pomona College
 * **September 2024:** [“Focus on Africa Podcast”](https://www.bbc.co.uk/sounds/play/p0jq52jk?partner=uk.co.bbc&origin=share-mobile) in BBC
 * **September 2024:** [“The 100 Most Influential People in AI 2024”](https://time.com/7012894/chinasa-t-okolo/) in TIME
