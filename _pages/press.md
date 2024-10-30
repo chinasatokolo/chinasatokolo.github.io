@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Media Commentary
+* **October 2024:** ["Old problems, new technologies: inequality, governance, fragility. What does AI mean for development?"](https://www.devintelligencelab.com/intel/24oct2024) in The Intel, Development Intelligence Lab
 * **October 2024:** ["The Gulf's AI Arms Race Is Just Getting Started"](https://www.jamcq.com/p/the-gulfs-ai-arms-race-is-just-getting) in JAM CQ
 * **October 2024:** Segment on [Voice of America _"Straight Talk Africa"_](https://www.voaafrica.com/a/7836268.html) Program
 * **September 2024:** ["At TIME100 Impact Dinner, AI Leaders Discuss the Technology’s Transformative Potential"](https://time.com/7021119/time100-impact-dinner-ai-transformative-potential-kurzweil-okolo-kelly-kumar/) in TIME
