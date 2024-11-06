@@ -12,13 +12,13 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 Sumaya N. Adan, Robert Trager, Kayla Blomquist, Claire Dennis, Gemma Edom, Lucia Velasco, Cecil Abungu, Ben Garfinkel, Julian Jacobs, **Chinasa T. Okolo**, Boxi Wu, Jai Vipra. ["Voice and Access in AI: Global AI Majority Participation in Artificial Intelligence Development and Governance."](https://www.oxfordmartin.ox.ac.uk/publications/voice-and-access-in-ai-global-ai-majority-participation-in-artificial-intelligence-development-and-governance) Oxford Martin AI Governance Initiative, 2024.
 
-Hongjin Lin, Naveena Karusala, **Chinasa T. Okolo**, Catherine D’Ignazio, and Krzysztof Gajos. [" 'Come to us first': Centering Community Organizations in Artificial Intelligence for Social Good Partnerships."](https://chinasatokolo.github.io/files/Okolo_CSCW_2024-AI4SG.pdf) To appear in the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, 2024.
+Hongjin Lin, Naveena Karusala, **Chinasa T. Okolo**, Catherine D’Ignazio, and Krzysztof Gajos. [" 'Come to us first': Centering Community Organizations in Artificial Intelligence for Social Good Partnerships."](https://chinasatokolo.github.io/files/Okolo_CSCW_2024-AI4SG.pdf) In the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, 2024.
 
-**Chinasa T. Okolo** and Hongjin Lin. ["Explainable AI in Practice: Practitioner Perspectives on AI for Social Good and User Engagement in the Global South."](https://chinasatokolo.github.io/files/Okolo_EAAMO_2024.pdf) To appear in the _ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)_, 2024.
+**Chinasa T. Okolo** and Hongjin Lin. ["Explainable AI in Practice: Practitioner Perspectives on AI for Social Good and User Engagement in the Global South."](https://chinasatokolo.github.io/files/Okolo_EAAMO_2024.pdf) In the _ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)_, 2024.
 
 **Chinasa T. Okolo**. ["Examining the capabilities and risks of advanced AI systems."](https://www.brookings.edu/articles/examining-advanced-ai-capabilities-and-risks/) _TechTank_. The Brookings Institution, 2024.
 
-**Chinasa T. Okolo**. "Operationalizing Comprehensive Data Governance in Africa." To appear in the _African Journal of Sustainable Development (AJSD) Special Issue: “Redefining African Futures: The State, Resilience, and Pathways to Progress._" Edited in partnership with the UN Office of the Special Advisor on Africa (OSAA) and the UN Sustainable Development Solutions Network (SDSN). 2024.
+**Chinasa T. Okolo**. ["Operationalizing Comprehensive Data Governance in Africa."](https://chinasatokolo.github.io/files/Okolo_AJSD_2024.pdf) In the _African Journal of Sustainable Development (AJSD) Special Issue: “Redefining African Futures: The State, Resilience, and Pathways to Progress._" Edited in partnership with the UN Office of the Special Advisor on Africa (OSAA) and the UN Sustainable Development Solutions Network (SDSN). 2024.
 
 Kadijatou Diallo, Jonathan Smith, **Chinasa T. Okolo**, Dorcas Nyamwaya, Jonas Kgomo, and Richard Ngamita. "African Case Studies in AI Policy Development." In the _Data for Policy Conference_, Data & Policy, Cambridge University Press, 2024.
 
