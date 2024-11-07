@@ -10,7 +10,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 ### 2024 
 * **November 2024:** [Technology Transfer and Culture in Africa: Large Scale Models in Focus](https://www.uj.ac.za/faculties/humanities/departments-2/philosophy/workshop-and-conference-2024/) at the University of Johannesburg — _Johannesburg, South Africa_
-* **November 2024:** [AI in Africa Workshop](https://sites.google.com/view/aia2024) at the ACM International Conference on AI in Finance (ICAIF ‘24) — _Remote_
+* **November 2024:** [AI in Africa Workshop](https://sites.google.com/view/aia2024/schedule) at the ACM International Conference on AI in Finance (ICAIF ‘24) — _Remote_
 * **October 2024:** "AI, Bias, and Ethics for Tech Diplomacy" Lecture at the Foreign Service Institute — _Washington, D.C._
 * **October 2024:** Georgia Tech [Summit on Responsible Computing, AI, and Society](https://rcais.github.io/) — _Atlanta, GA_
 * **October 2024:** Wharton Lauder Institute Africa Regional Seminar — _Philadelphia, PA_
