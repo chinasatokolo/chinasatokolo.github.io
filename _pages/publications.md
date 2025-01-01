@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Ljcd9nMAAAAJ&hl=en&oi=sra) or [ResearchGate](https://www.researchgate.net/profile/Chinasa-Okolo-2).
+## 2025
+**Chinasa T. Okolo** and Mubarak Raji. The Majority World in Global AI Governance. To appear in the _Handbook on the Global Governance of AI_. Edited by Markus Furendal and Magnus Lundgren. Edward Elgar Publishing, 2025.
+
+<!--Charting New Frontiers for Governance and Democracy in Africa’s AI Era. -->
 
 ## 2024
 **Chinasa T. Okolo** and Marie Tano. ["Moving toward truly responsible AI development in the global AI market."](https://www.brookings.edu/articles/moving-toward-truly-responsible-ai-development-in-the-global-ai-market/) _TechTank_. The Brookings Institution, 2024.
@@ -48,7 +52,7 @@ African Union Development Agency (AUDA-NEPAD). ["AUDA-NEPAD Artificial Intellige
 ## 2023
 **Chinasa T. Okolo**. ["AI in the Global South: Opportunities and challenges towards more inclusive governance."](https://www.brookings.edu/articles/ai-in-the-global-south-opportunities-and-challenges-towards-more-inclusive-governance/) _TechTank_. The Brookings Institution, 2023.
 
-**Chinasa T. Okolo**. ["Addressing Global Inequity in AI Development."](https://chinasatokolo.github.io/files/Okolo_GIAID_2023.pdf) In the _Handbook of Critical Studies of Artificial Intelligence_. Edited by Simon Lindgren. Edward Elgar Publishers, 2023.
+**Chinasa T. Okolo**. ["Addressing Global Inequity in AI Development."](https://chinasatokolo.github.io/files/Okolo_GIAID_2023.pdf) In the _Handbook of Critical Studies of Artificial Intelligence_. Edited by Simon Lindgren. Edward Elgar Publishing, 2023.
 
 **Chinasa T. Okolo**. ["The Promise and Perils of Generative AI: Case Studies in an African Context."](https://chinasatokolo.github.io/files/Okolo_AfriCHI_2023.pdf) In the _African Conference for Human Computer Interaction (AfriCHI)_, 2023.
 
