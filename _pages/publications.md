@@ -7,6 +7,9 @@ author_profile: true
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Ljcd9nMAAAAJ&hl=en&oi=sra) or [ResearchGate](https://www.researchgate.net/profile/Chinasa-Okolo-2).
 ## 2025
+
+<!--**Chinasa T. Okolo**. Governance of AI-based Algorithms. To appear in the _Handbook of Human-Centered AI_. Edited by Wei Xu. Springer, 2025.-->
+
 **Chinasa T. Okolo** and Mubarak Raji. The Majority World in Global AI Governance. To appear in the _Handbook on the Global Governance of AI_. Edited by Markus Furendal and Magnus Lundgren. Edward Elgar Publishing, 2025.
 
 <!--Charting New Frontiers for Governance and Democracy in Africa’s AI Era. -->
