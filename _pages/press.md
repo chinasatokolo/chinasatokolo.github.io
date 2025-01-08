@@ -29,6 +29,7 @@ author_profile: true
 
 
 ## Media & Research Features
+* **December 2024:** [Most Influential Africans of 2024](https://100.newafricanmagazine.com/) by New African Magazine
 * **December 2024:** [30 Under 30 AI](https://www.forbes.com/30-under-30/2025/ai) by Forbes
 * **October 2024:** [Interview](https://www.youtube.com/watch?v=lJTFOZQplcc) with Channels TV
 * **September 2024:** [“TIME Magazine Names Chinasa T. Okolo ’18 One of 100 Most Influential People in AI”](https://www.pomona.edu/news/2024/09/16-time-magazine-names-chinasa-t-okolo-18-one-100-most-influential-people-ai) by Pomona College
