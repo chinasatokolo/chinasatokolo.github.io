@@ -6,7 +6,7 @@ author_profile: true
 ---
 A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/event webpages/articles have been provided as available.
 
-_Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
+_Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2025
 * **January 2025:** Autonomous Innovation Summit, _Remote_
