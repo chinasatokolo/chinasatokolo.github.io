@@ -74,7 +74,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatoko
 * **December 2023:** [AI for Africa Conference](https://www.aiforafrica.org/aifa23), in conjunction with the African Startup Conference — _Algiers, Algeria_
 * **December 2023:** [Policymaking for AI & Web3: Advancements in Global AI Policy](https://gettingplurality.org/ai-regulator-workshop-series/), Getting Plurality Research Network (Harvard University Allen Lab for Democracy Renovation and MIT Connection Science) — _Virtual_
 * **November 2023:** [The Future of AI Governance Webinar](https://www.eventbrite.co.uk/e/the-future-of-ai-governance-tickets-756217977327), EquiAI Initiative at the University of Durham — _Virtual_
-* **November 2023:** [AI safety beyond the UK Summit: A conversation with Secretary Michelle Donelan](https://www.brookings.edu/events/ai-safety-beyond-the-uk-summit-secretary-donelan/), Brookings — _Washington, D.C._
+* **November 2023:** [AI Safety Beyond the UK Summit: A Conversation with Secretary Michelle Donelan](https://www.brookings.edu/events/ai-safety-beyond-the-uk-summit-secretary-donelan/), Brookings — _Washington, D.C._
 * **October 2023:** [AI + Society Forum](https://www.aisocietyforum.net/programme), Wellcome Collection — _London, UK_
 * **October 2023:** Georgetown Hoyalytics Seminar, Georgetown University — _Washington, D.C._
 * **September 2023:** [Pomona College Computer Science Colloquium](https://www.pomona.edu/academics/departments/computer-science/colloquium)  — _Claremont, CA_
