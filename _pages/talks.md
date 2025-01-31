@@ -9,10 +9,10 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2025
-* **January 2025:** Harvard Kennedy School Center for International Development Seminar, — _Cambridge, MA_
-* **January 2025:** Autonomous Innovation Summit, _Remote_
-* **January 2025:** Howard Law Ferguson Symposium, _Washington, D.C._
-* **January 2025:** ["Realizing Africa’s Potential: A Conversation with Book Author, Landry Signé"](https://shows.acast.com/tech-tank/episodes/realizing-africas-potential-a-conversation-with-book-author-) Brookings TechTank Podcast, _Washington, D.C._
+* **January 2025:** Harvard Kennedy School [Center for International Development Speaker Series](https://www.hks.harvard.edu/events/broadening-perspectives-ai-and-data-governance-africa) — _Cambridge, MA_
+* **January 2025:** Autonomous Innovation Summit — _Remote_
+* **January 2025:** Howard Law Ferguson Symposium — _Washington, D.C._
+* **January 2025:** ["Realizing Africa’s Potential: A Conversation with Book Author, Landry Signé"](https://shows.acast.com/tech-tank/episodes/realizing-africas-potential-a-conversation-with-book-author-) Brookings TechTank Podcast — _Washington, D.C._
 
 ### 2024 
 * **December 2024:** ["Transforming Nonprofit Engagement With AI: Insights from Early Adopters"](https://events.goldcast.io/splash/2859cd4f-7a6d-4256-8af5-7da7bf1e98ed) Panel sponsored by Twilio, _Remote_
