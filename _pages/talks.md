@@ -9,6 +9,7 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2025
+* **January 2025:** Harvard Kennedy School Center for International Development Seminar, — _Cambridge, MA_
 * **January 2025:** Autonomous Innovation Summit, _Remote_
 * **January 2025:** Howard Law Ferguson Symposium, _Washington, D.C._
 * **January 2025:** ["Realizing Africa’s Potential: A Conversation with Book Author, Landry Signé"](https://shows.acast.com/tech-tank/episodes/realizing-africas-potential-a-conversation-with-book-author-) Brookings TechTank Podcast, _Washington, D.C._
