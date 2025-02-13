@@ -14,6 +14,12 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <!--Charting New Frontiers for Governance and Democracy in Africa’s AI Era. -->
 
+Yung-Hsuan Wu, Nitya Kuthiala, Joanna Wiaterek, Jonas Kgomo, and **Chinasa T. Okolo**. “Through the Praxis Lens: Approaching the AI Lifecycle with Ethnographic Methods.” Participatory AI Research & Practice Symposium, 2025.
+
+Claire Dennis, Sam Manning, Stephen Clare, Boxi Wu, Jake Okechukwu Effoduh, **Chinasa T. Okolo**, Lennart Heim, and Katya Klinova. “[Options and Motivations for International AI Benefit Sharing](https://www.governance.ai/research-paper/options-and-motivations-for-international-ai-benefit-sharing).” Centre for the Governance of AI (GovAI), 2025.
+
+Yoshua Bengio et al. “[International AI Safety Report 2025](https://www.gov.uk/government/publications/international-ai-safety-report-2025).” The United Kingdom Department for Science, Innovation and Technology (DSIT), 2025.
+
 ## 2024
 **Chinasa T. Okolo** and Marie Tano. ["Moving toward truly responsible AI development in the global AI market."](https://www.brookings.edu/articles/moving-toward-truly-responsible-ai-development-in-the-global-ai-market/) _TechTank_. The Brookings Institution, 2024.
 
