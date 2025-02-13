@@ -14,6 +14,10 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <!--Charting New Frontiers for Governance and Democracy in Africa’s AI Era. -->
 
+**Chinasa T. Okolo**. [“Re-envisioning AI safety through global majority perspectives.”](https://www.brookings.edu/articles/a-new-writing-series-re-envisioning-ai-safety-through-global-majority-perspectives/) _TechTank_. The Brookings Institution, 2025. 
+
+**Chinasa T. Okolo**. [“AI Safety is Misnomer Without Global Majority Inclusion.”](https://www.compiler.news/) _Compiler_, 2025. 
+
 Yung-Hsuan Wu, Nitya Kuthiala, Joanna Wiaterek, Jonas Kgomo, and **Chinasa T. Okolo**. “Through the Praxis Lens: Approaching the AI Lifecycle with Ethnographic Methods.” Participatory AI Research & Practice Symposium, 2025.
 
 Claire Dennis, Sam Manning, Stephen Clare, Boxi Wu, Jake Okechukwu Effoduh, **Chinasa T. Okolo**, Lennart Heim, and Katya Klinova. “[Options and Motivations for International AI Benefit Sharing](https://www.governance.ai/research-paper/options-and-motivations-for-international-ai-benefit-sharing).” Centre for the Governance of AI (GovAI), 2025.
@@ -21,13 +25,15 @@ Claire Dennis, Sam Manning, Stephen Clare, Boxi Wu, Jake Okechukwu Effoduh, **Ch
 Yoshua Bengio et al. “[International AI Safety Report 2025](https://www.gov.uk/government/publications/international-ai-safety-report-2025).” The United Kingdom Department for Science, Innovation and Technology (DSIT), 2025.
 
 ## 2024
-**Chinasa T. Okolo** and Marie Tano. ["Moving toward truly responsible AI development in the global AI market."](https://www.brookings.edu/articles/moving-toward-truly-responsible-ai-development-in-the-global-ai-market/) _TechTank_. The Brookings Institution, 2024.
+**Chinasa T. Okolo** and Marie Tano. [“Closing the gap: A call for more inclusive language technologies.”](https://www.brookings.edu/articles/closing-the-gap-a-call-for-more-inclusive-language-technologies/) _TechTank_. The Brookings Institution, 2024. 
 
 Sumaya N. Adan, Robert Trager, Kayla Blomquist, Claire Dennis, Gemma Edom, Lucia Velasco, Cecil Abungu, Ben Garfinkel, Julian Jacobs, **Chinasa T. Okolo**, Boxi Wu, Jai Vipra. ["Voice and Access in AI: Global AI Majority Participation in Artificial Intelligence Development and Governance."](https://www.oxfordmartin.ox.ac.uk/publications/voice-and-access-in-ai-global-ai-majority-participation-in-artificial-intelligence-development-and-governance) Oxford Martin AI Governance Initiative, 2024.
 
 Hongjin Lin, Naveena Karusala, **Chinasa T. Okolo**, Catherine D’Ignazio, and Krzysztof Gajos. [" 'Come to us first': Centering Community Organizations in Artificial Intelligence for Social Good Partnerships."](https://chinasatokolo.github.io/files/Okolo_CSCW_2024-AI4SG.pdf) In the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, 2024.
 
 **Chinasa T. Okolo** and Hongjin Lin. ["Explainable AI in Practice: Practitioner Perspectives on AI for Social Good and User Engagement in the Global South."](https://chinasatokolo.github.io/files/Okolo_EAAMO_2024.pdf) In the _ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)_, 2024.
+
+**Chinasa T. Okolo** and Marie Tano. ["Moving toward truly responsible AI development in the global AI market."](https://www.brookings.edu/articles/moving-toward-truly-responsible-ai-development-in-the-global-ai-market/) _TechTank_. The Brookings Institution, 2024.
 
 **Chinasa T. Okolo**. ["Examining the capabilities and risks of advanced AI systems."](https://www.brookings.edu/articles/examining-advanced-ai-capabilities-and-risks/) _TechTank_. The Brookings Institution, 2024.
 
