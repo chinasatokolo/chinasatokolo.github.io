@@ -13,7 +13,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatoko
 * **February 2025:** "AI and the Global Majority" Lecture for the EUI Florence School of Transnational Governance [AI and Governance: Embracing and Harnessing AI for the Public Good Course](https://www.eui.eu/apply?id=ai-and-governance-embracing-and-harnessing-ai-for-the-public-good) — _Remote_
 * **February 2025:** “Catalyzing AI Innovation Ecosystems Worldwide” Panel at [Trustworthy Innovation for a Connected World](https://www.cas-strategies.com/ai-action-summit) AI Action Summit Side Event — _Paris, France_
 * **February 2025:** [Africa AI Village](https://aivillage.africa/) — _Paris, France_
-* **February 2025:** [Alma Mater Europaea University AI Research Development Roundtable](https://toplaktours.my.canva.site/alma-mater-artificial-inteligence-center) — _Remote_
+* **February 2025:** Alma Mater Europaea University [AI Research Development Roundtable](https://toplaktours.my.canva.site/alma-mater-artificial-inteligence-center) — _Remote_
 * **January 2025:** Harvard Kennedy School [Center for International Development Speaker Series](https://www.hks.harvard.edu/events/broadening-perspectives-ai-and-data-governance-africa) — _Cambridge, MA_
 * **January 2025:** Autonomous Innovation Summit — _Remote_
 * **January 2025:** Howard Law Ferguson Symposium — _Washington, D.C._
