@@ -16,7 +16,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Chinasa T. Okolo**. [“Re-envisioning AI safety through global majority perspectives.”](https://www.brookings.edu/articles/a-new-writing-series-re-envisioning-ai-safety-through-global-majority-perspectives/) _TechTank_. The Brookings Institution, 2025. 
 
-**Chinasa T. Okolo**. [“AI Safety is Misnomer Without Global Majority Inclusion.”](https://www.compiler.news/) _Compiler_, 2025. 
+**Chinasa T. Okolo**. [“AI Safety is Misnomer Without Global Majority Inclusion.”](https://www.compiler.news/ai-action-edition/) _Compiler_, 2025. 
 
 Yung-Hsuan Wu, Nitya Kuthiala, Joanna Wiaterek, Jonas Kgomo, and **Chinasa T. Okolo**. “Through the Praxis Lens: Approaching the AI Lifecycle with Ethnographic Methods.” Participatory AI Research & Practice Symposium, 2025.
 
