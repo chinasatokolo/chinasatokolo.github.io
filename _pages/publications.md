@@ -20,7 +20,9 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 Yung-Hsuan Wu, Nitya Kuthiala, Joanna Wiaterek, Jonas Kgomo, and **Chinasa T. Okolo**. “Through the Praxis Lens: Approaching the AI Lifecycle with Ethnographic Methods.” Participatory AI Research & Practice Symposium, 2025.
 
-Claire Dennis, Sam Manning, Stephen Clare, Boxi Wu, Jake Okechukwu Effoduh, **Chinasa T. Okolo**, Lennart Heim, and Katya Klinova. “[Options and Motivations for International AI Benefit Sharing](https://www.governance.ai/research-paper/options-and-motivations-for-international-ai-benefit-sharing).” Centre for the Governance of AI (GovAI), 2025.
+Claire Dennis, Sam Manning, Stephen Clare, Boxi Wu, Jake Okechukwu Effoduh, **Chinasa T. Okolo**, Lennart Heim, and Katya Klinova. ["Options and Motivations for International AI Benefit Sharing"](https://www.governance.ai/research-paper/options-and-motivations-for-international-ai-benefit-sharing). Centre for the Governance of AI (GovAI), 2025.
+
+Katherine Grillaert, Matt Kennedy, and **Chinasa T. Okolo**. [“Risks of State-Led AI Governance in a Federal Policy Vacuum.”](https://www.techpolicy.press/risks-of-state-led-ai-governance-in-a-federal-policy-vacuum/) Tech Policy Press, 2025.
 
 Yoshua Bengio et al. “[International AI Safety Report 2025](https://www.gov.uk/government/publications/international-ai-safety-report-2025).” The United Kingdom Department for Science, Innovation and Technology (DSIT), 2025.
 
