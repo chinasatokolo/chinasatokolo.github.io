@@ -9,6 +9,8 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2025
+* **February 2025:** [“Green futures: AI, ecology, and policies for people and the planet”](https://www.rightscon.org/program/) Session at RightsCon — _Taipei, Taiwan_
+* **February 2025:** [“Global Governance of AI: Political and Ethical Challenges Across National, Regional, and International Approaches”](https://mediaspace.illinois.edu/media/t/1_exbnmxrt) Panel at the University of Illinois — _Remote_
 * **February 2025:** “Africa’s AI Strategy: Opportunities, Challenges, and the Path Forward” Panel at the [Harvard Africa Business Conference](https://www.africa-hbsclub.com/) — _Cambridge, MA_
 * **February 2025:** "AI and the Global Majority" Lecture for the EUI Florence School of Transnational Governance [AI and Governance: Embracing and Harnessing AI for the Public Good Course](https://www.eui.eu/apply?id=ai-and-governance-embracing-and-harnessing-ai-for-the-public-good) — _Remote_
 * **February 2025:** “Catalyzing AI Innovation Ecosystems Worldwide” Panel at [Trustworthy Innovation for a Connected World](https://www.cas-strategies.com/ai-action-summit) AI Action Summit Side Event — _Paris, France_
