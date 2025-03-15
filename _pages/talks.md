@@ -9,6 +9,8 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2025
+* **March 2025:** "Emerging Technologies and the Global South" panel at the [Georgetown Journal of International Law Symposium](https://www.law.georgetown.edu/event/georgetown-journal-of-international-law-symposium-emerging-technologies-international-law/) — _Washington, D.C._
+* **March 2025:** "Risks and rewards in the Al race" panel at [EuroFinance Treasury & Cash Management Summit West Coast](https://www.eurofinance.com/treasury-cash-management-summit-west-coast/agenda/) — _Santa Clara, CA_
 * **February 2025:** [“Green futures: AI, ecology, and policies for people and the planet”](https://www.rightscon.org/program/) Session at RightsCon — _Taipei, Taiwan_
 * **February 2025:** [Artificial Intelligence Strategy in the Security Domain Development Seminar](https://africacenter.org/programs/ai-strategy/) for the Africa Center for Strategic Studies — _Remote_
 * **February 2025:** [“Global Governance of AI: Political and Ethical Challenges Across National, Regional, and International Approaches”](https://mediaspace.illinois.edu/media/t/1_exbnmxrt) Panel at the University of Illinois — _Remote_
