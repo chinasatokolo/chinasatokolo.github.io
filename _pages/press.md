@@ -7,7 +7,7 @@ author_profile: true
 
 ## Media Commentary
 * **March 2025:** ["What you need to know about Africa’s first AI factory"](https://restofworld.org/2025/nvidia-africa-ai-factory/) in Rest of World
-* **March 2025:** [AI for the world, or just the West? How researchers are tackling Big Tech's global gaps](https://www.zdnet.com/article/ai-for-the-world-or-just-the-west-how-researchers-are-tackling-big-techs-global-gaps/) in ZDNet
+* **March 2025:** ["AI for the world, or just the West? How researchers are tackling Big Tech's global gaps"](https://www.zdnet.com/article/ai-for-the-world-or-just-the-west-how-researchers-are-tackling-big-techs-global-gaps/) in ZDNet
 * **October 2024:** ["Old problems, new technologies: inequality, governance, fragility. What does AI mean for development?"](https://www.devintelligencelab.com/intel/24oct2024) in The Intel, Development Intelligence Lab
 * **October 2024:** ["The Gulf's AI Arms Race Is Just Getting Started"](https://www.jamcq.com/p/the-gulfs-ai-arms-race-is-just-getting) in JAM CQ
 * **October 2024:** Segment on [Voice of America _"Straight Talk Africa"_](https://www.voaafrica.com/a/7836268.html) Program
