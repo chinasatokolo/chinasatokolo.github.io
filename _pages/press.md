@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Media Commentary
+* **April 2025:** ["Africa’s AI ambitions take the spotlight in Rwanda"](https://www.semafor.com/article/04/02/2025/africas-ai-ambitions-take-the-spotlight-in-rwanda) in SEMAFOR
 * **March 2025:** ["What you need to know about Africa’s first AI factory"](https://restofworld.org/2025/nvidia-africa-ai-factory/) in Rest of World
 * **March 2025:** ["AI for the world, or just the West? How researchers are tackling Big Tech's global gaps"](https://www.zdnet.com/article/ai-for-the-world-or-just-the-west-how-researchers-are-tackling-big-techs-global-gaps/) in ZDNet
 * **October 2024:** ["Old problems, new technologies: inequality, governance, fragility. What does AI mean for development?"](https://www.devintelligencelab.com/intel/24oct2024) in The Intel, Development Intelligence Lab
