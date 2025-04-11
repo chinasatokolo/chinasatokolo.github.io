@@ -12,6 +12,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Chinasa T. Okolo** and Mubarak Raji. "The Majority World in Global AI Governance". To appear in the _Handbook on the Global Governance of AI_. Edited by Markus Furendal and Magnus Lundgren. Edward Elgar Publishing, 2025.
 
+Teanna Barrett, **Chinasa T. Okolo**, B. Biira, Eman Sherif, Amy X. Zhang, and Leilani Battle. "African Data Ethics: A Discursive Framework for Black Decolonial Data Science." To appear in the ACM Conference on Fairness, Accountability and Transparency (FAccT), 2025.
+
 <!--Charting New Frontiers for Governance and Democracy in Africa’s AI Era. -->
 
 **Chinasa T. Okolo**. [“Re-envisioning AI safety through global majority perspectives.”](https://www.brookings.edu/articles/a-new-writing-series-re-envisioning-ai-safety-through-global-majority-perspectives/) _TechTank_. The Brookings Institution, 2025. 
