@@ -9,6 +9,7 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2025
+* **April 2025:** "Building the Ecosystems: Preparing Africa for the Digital Future" panel at the George Washington University Africa’s Youth and the Technology Revolution Conference  — _Washington, D.C._
 * **April 2025:** ["AI for All: African Youth Voices Shaping the Future"](https://c4ir.rw/global-ai-summit-on-africa/sessions/African-Youth-Voices-Shaping-the-Future) session at the Global AI Summit on Africa — _Kigali, Rwanda_
 * **April 2025:** "Artificial Intelligence & International Security" Lecture for the BPIA Colin Powell Leadership Institute — _Remote_
 * **April 2025:** "AI and Society" seminar for the Tunisian National Defense Institute — _Arlington, VA_
