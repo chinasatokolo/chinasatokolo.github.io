@@ -9,6 +9,9 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2025
+* **May 2025:** "AI for all beings: Translating ethics into action" session at [Web Summit](https://vancouver.websummit.com/schedule/) — _Vancouver, Canada_
+* **May 2025:** "Global AI Governance - Balancing Innovation and Accountability" session at [Deep Tech Summit](https://deeptech.um6p.ma/) — _Benguerir, Morocco_
+* **April 2025:** Massachusetts Institute of Technology’s [AI4Society Seminar Series](https://ai4society.mit.edu/seminar/) — _Cambridge, MA_
 * **April 2025:** "Building the Ecosystems: Preparing Africa for the Digital Future" panel at the George Washington University Africa’s Youth and the Technology Revolution Conference  — _Washington, D.C._
 * **April 2025:** ["AI for All: African Youth Voices Shaping the Future"](https://c4ir.rw/global-ai-summit-on-africa/sessions/African-Youth-Voices-Shaping-the-Future) session at the Global AI Summit on Africa — _Kigali, Rwanda_
 * **April 2025:** "Artificial Intelligence & International Security" Lecture for the BPIA Colin Powell Leadership Institute — _Remote_
