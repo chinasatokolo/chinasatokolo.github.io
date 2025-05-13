@@ -16,6 +16,8 @@ Teanna Barrett, **Chinasa T. Okolo**, B. Biira, Eman Sherif, Amy X. Zhang, and L
 
 <!--Charting New Frontiers for Governance and Democracy in Africa’s AI Era. -->
 
+Joanna Wiaterek, Cecil Abungu, and **Chinasa T. Okolo**. [“Building regional capacity for AI safety and security in Africa.”](https://www.brookings.edu/articles/building-regional-capacity-for-ai-safety-and-security-in-africa/) _TechTank_. The Brookings Institution, 2025. 
+
 **Chinasa T. Okolo**. [“Re-envisioning AI safety through global majority perspectives.”](https://www.brookings.edu/articles/a-new-writing-series-re-envisioning-ai-safety-through-global-majority-perspectives/) _TechTank_. The Brookings Institution, 2025. 
 
 **Chinasa T. Okolo**. [“AI Safety is Misnomer Without Global Majority Inclusion.”](https://www.compiler.news/ai-action-edition/) _Compiler_, 2025. 
