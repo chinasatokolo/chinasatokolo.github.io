@@ -10,8 +10,11 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatoko
 
 ### 2025
 * **May 2025:** "AI for all beings: Translating ethics into action" session at [Web Summit](https://vancouver.websummit.com/schedule/) — _Vancouver, Canada_
+* **May 2025:**  "The Human Equation: Balancing Act in AI Safety with Scale" panel at [Vancity Innovation House](https://vancityinnovationhouse.com/) — _Vancouver, Canada_
+* **May 2025:** "AI for Sustainable Development in Africa" webinar for the Global Center on AI Governance and the African Observatory on Responsible AI  — _Remote_
+* **May 2025:** Ethical Dimensions of AI in Storytelling Session for the [Centre for Journalism Innovation and Development](https://thecjid.org/) AI & Tech Accountability Reporting Fellowship — _Remote_
 * **May 2025:** "Global AI Governance - Balancing Innovation and Accountability" session at [Deep Tech Summit](https://deeptech.um6p.ma/) — _Benguerir, Morocco_
-* **May 2025:** The Global Impact of AI event for the Friedrich Naumann Foundation — _Washington, D.C._
+* **May 2025:** "The Global Impact of AI" event for the Friedrich Naumann Foundation — _Washington, D.C._
 * **April 2025:** Massachusetts Institute of Technology’s [AI4Society Seminar Series](https://ai4society.mit.edu/seminar/) — _Cambridge, MA_
 * **April 2025:** "Building the Ecosystems: Preparing Africa for the Digital Future" panel at the George Washington University Africa’s Youth and the Technology Revolution Conference  — _Washington, D.C._
 * **April 2025:** ["AI for All: African Youth Voices Shaping the Future"](https://c4ir.rw/global-ai-summit-on-africa/sessions/African-Youth-Voices-Shaping-the-Future) session at the Global AI Summit on Africa — _Kigali, Rwanda_
