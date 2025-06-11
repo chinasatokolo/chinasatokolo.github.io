@@ -9,6 +9,7 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2025
+* **June 2025:** "AI Explainability in the Global Majority: Development and Policy Perspectives" talk at the [4th Explainable AI for Computer Vision (XAI4CV) Workshop](https://xai4cv.github.io/workshop_cvpr25) at CVPR 2025  — _Remote_
 * **June 2025:** "Contextualizing AI Regulatory Approaches in Africa" session at [2nd Conference on the State of Artificial Intelligence in Africa](https://aiconference.cipit.org/) — _Nairobi, Kenya_
 * **May 2025:** "AI for all beings: Translating ethics into action" session at [Web Summit](https://vancouver.websummit.com/schedule/) — _Vancouver, Canada_
 * **May 2025:**  "The Human Equation: Balancing Act in AI Safety with Scale" panel at [Vancity Innovation House](https://vancityinnovationhouse.com/) — _Vancouver, Canada_
