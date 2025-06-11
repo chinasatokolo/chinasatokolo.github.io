@@ -8,6 +8,9 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Ljcd9nMAAAAJ&hl=en&oi=sra) or [ResearchGate](https://www.researchgate.net/profile/Chinasa-Okolo-2).
 ## 2025
 
+
+Abigail Oppong, Hellina Nigatu, and **Chinasa T. Okolo**. "Evaluating Gender Bias for Low-Resource African Languages in LLMs." In the 5th Workshop on Gender Bias for Natural Language Processing at the 63rd Annual Meeting of the Association for Computational Linguistics, 2025.
+
 **Chinasa T. Okolo**. "Governance of AI-based Algorithms". To appear in the _Handbook of Human-Centered AI_. Edited by Wei Xu. Springer, 2025.
 
 **Chinasa T. Okolo** and Mubarak Raji. "The Majority World in Global AI Governance". To appear in the _Handbook on the Global Governance of AI_. Edited by Markus Furendal and Magnus Lundgren. Edward Elgar Publishing, 2025.
