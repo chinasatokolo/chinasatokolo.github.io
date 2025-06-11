@@ -9,7 +9,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 ## 2025
 
 
-Abigail Oppong, Hellina Nigatu, and **Chinasa T. Okolo**. "Evaluating Gender Bias for Low-Resource African Languages in LLMs." In the _Workshop on Gender Bias for Natural Language Processing_ at the Annual Meeting of the Association for Computational Linguistics, 2025.
+Abigail Oppong, Hellina Nigatu, and **Chinasa T. Okolo**. "Evaluating Gender Bias for Low-Resource African Languages in LLMs." In the _Workshop on Gender Bias for Natural Language Processing_ at the Annual Meeting of the Association for Computational Linguistics (ACL), 2025.
 
 **Chinasa T. Okolo**. "Governance of AI-based Algorithms". To appear in the _Handbook of Human-Centered AI_. Edited by Wei Xu. Springer, 2025.
 
