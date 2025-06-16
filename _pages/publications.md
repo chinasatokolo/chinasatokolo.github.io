@@ -15,7 +15,7 @@ Abigail Oppong, Hellina Nigatu, and **Chinasa T. Okolo**. "Examining the Cultura
 
 **Chinasa T. Okolo** and Mubarak Raji. "The Majority World in Global AI Governance". To appear in the _Handbook on the Global Governance of AI_. Edited by Markus Furendal and Magnus Lundgren. Edward Elgar Publishing, 2025.
 
-Teanna Barrett, **Chinasa T. Okolo**, B. Biira, Eman Sherif, Amy X. Zhang, and Leilani Battle. ["African Data Ethics: A Discursive Framework for Black Decolonial AI."](https://chinasatokolo.github.io/files/Okolo_FAccT_2025) To appear in the ACM Conference on Fairness, Accountability and Transparency (FAccT), 2025.
+Teanna Barrett, **Chinasa T. Okolo**, B. Biira, Eman Sherif, Amy X. Zhang, and Leilani Battle. ["African Data Ethics: A Discursive Framework for Black Decolonial AI."](https://chinasatokolo.github.io/files/Okolo_FAccT_2025.pdf) To appear in the ACM Conference on Fairness, Accountability and Transparency (FAccT), 2025.
 
 <!--Charting New Frontiers for Governance and Democracy in Africa’s AI Era. -->
 
