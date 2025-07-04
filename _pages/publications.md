@@ -36,6 +36,8 @@ Yoshua Bengio et al. “[International AI Safety Report 2025](https://www.gov.uk
 ## 2024
 **Chinasa T. Okolo** and Marie Tano. [“Closing the gap: A call for more inclusive language technologies.”](https://www.brookings.edu/articles/closing-the-gap-a-call-for-more-inclusive-language-technologies/) _TechTank_. The Brookings Institution, 2024. 
 
+**Chinasa T. Okolo**. [Policy Report: Examining AI in Low and Middle-Income Countries](https://www.freiheit.org/sites/default/files/2025-05/fnf-policy-report-ai.pdf). Friedrich Naumann Foundation for Freedom, 2024. 
+
 Sumaya N. Adan, Robert Trager, Kayla Blomquist, Claire Dennis, Gemma Edom, Lucia Velasco, Cecil Abungu, Ben Garfinkel, Julian Jacobs, **Chinasa T. Okolo**, Boxi Wu, Jai Vipra. ["Voice and Access in AI: Global AI Majority Participation in Artificial Intelligence Development and Governance."](https://www.oxfordmartin.ox.ac.uk/publications/voice-and-access-in-ai-global-ai-majority-participation-in-artificial-intelligence-development-and-governance) Oxford Martin AI Governance Initiative, 2024.
 
 Hongjin Lin, Naveena Karusala, **Chinasa T. Okolo**, Catherine D’Ignazio, and Krzysztof Gajos. [" 'Come to us first': Centering Community Organizations in Artificial Intelligence for Social Good Partnerships."](https://chinasatokolo.github.io/files/Okolo_CSCW_2024-AI4SG.pdf) In the _Proceedings of the ACM on Human-Computer Interaction (PACM)_, 2024.
