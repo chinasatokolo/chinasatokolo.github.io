@@ -7,6 +7,8 @@ author_profile: true
 A list of awards and honors received by Dr. Chinasa T. Okolo.
 
 ## Awards
+* **July 2025:** Black Professionals in International Affairs (BPIA) [Power 50](https://iabpia.org/awards)
+* **June 2025:** AfroTech [Future 50](https://afrotech.com/future-50)
 * **December 2024:** New African Magazine’s Most Influential Africans of 2024
 * **December 2024:** Forbes Under 30 — AI 
 * **September 2024:** TIME 100 AI: The 100 Most Influential People in AI 2024
