@@ -9,11 +9,11 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 ## 2025
 
 
-Abigail Oppong, Hellina Nigatu, and **Chinasa T. Okolo**. "Examining the Cultural Encoding of Gender Bias in LLMs for Low-Resourced African Languages." To appear in the [_Workshop on Gender Bias for Natural Language Processing_](https://gebnlp-workshop.github.io/) at the Annual Meeting of the Association for Computational Linguistics (ACL), 2025.
-
 **Chinasa T. Okolo**. "Governance of AI-based Algorithms". To appear in the _Handbook of Human-Centered AI_. Edited by Wei Xu. Springer, 2025.
 
 **Chinasa T. Okolo** and Mubarak Raji. "The Majority World in Global AI Governance". To appear in the _Handbook on the Global Governance of AI_. Edited by Markus Furendal and Magnus Lundgren. Edward Elgar Publishing, 2025.
+
+Abigail Oppong, Hellina Nigatu, and **Chinasa T. Okolo**. ["Examining the Cultural Encoding of Gender Bias in LLMs for Low-Resourced African Languages."](https://chinasatokolo.github.io/files/Okolo_ACL_2025.pdf) In the [_Workshop on Gender Bias for Natural Language Processing_](https://gebnlp-workshop.github.io/) at the Annual Meeting of the Association for Computational Linguistics (ACL), 2025.
 
 Teanna Barrett, **Chinasa T. Okolo**, B. Biira, Eman Sherif, Amy X. Zhang, and Leilani Battle. ["African Data Ethics: A Discursive Framework for Black Decolonial AI."](https://chinasatokolo.github.io/files/Okolo_FAccT_2025.pdf) In the ACM Conference on Fairness, Accountability and Transparency (FAccT), 2025.
 
