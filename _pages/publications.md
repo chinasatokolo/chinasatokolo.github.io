@@ -13,6 +13,10 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Chinasa T. Okolo** and Mubarak Raji. "The Majority World in Global AI Governance". To appear in the _Handbook on the Global Governance of AI_. Edited by Markus Furendal and Magnus Lundgren. Edward Elgar Publishing, 2025.
 
+**Chinasa T. Okolo**. [“AI is Not Africa’s Savior: Avoiding Technosolutionism in Digital Development.”](https://www.brookings.edu/articles/ai-is-not-africas-savior-avoiding-technosolutionism-in-digital-development/) _TechTank_. The Brookings Institution, 2025. 
+
+**Chinasa T. Okolo**. ["Generative AI Versus African Democracies"](https://www.thecontinent.org/_files/ugd/287178_90c4e62a13e44b1e9b7dff356d2c4d08.pdf#page=31.12). The Continent, 2025. 
+
 Abigail Oppong, Hellina Nigatu, and **Chinasa T. Okolo**. ["Examining the Cultural Encoding of Gender Bias in LLMs for Low-Resourced African Languages."](https://chinasatokolo.github.io/files/Okolo_ACL_2025.pdf) In the [_Workshop on Gender Bias for Natural Language Processing_](https://gebnlp-workshop.github.io/) at the Annual Meeting of the Association for Computational Linguistics (ACL), 2025.
 
 Teanna Barrett, **Chinasa T. Okolo**, B. Biira, Eman Sherif, Amy X. Zhang, and Leilani Battle. ["African Data Ethics: A Discursive Framework for Black Decolonial AI."](https://chinasatokolo.github.io/files/Okolo_FAccT_2025.pdf) In the ACM Conference on Fairness, Accountability and Transparency (FAccT), 2025.
