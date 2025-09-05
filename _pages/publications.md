@@ -12,7 +12,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Chinasa T. Okolo**. "Datafication and Postcolonial Discontinuities: Analyzing the Sociodigital Exploitation of Africa." To appear in the _Handbook of Critical Data Studies​"_. Edited by Ulises A. Mejias, Jasmine McNealy, and Milagros Miceli. De Gruyter, 2026.
 
-**Chinasa T. Okolo**. "Charting New Frontiers for Governance and Democracy in Africa’s AI Era." To appear in _Digital Policy Studies (DPS)_, 2025.
+**Chinasa T. Okolo**. "Charting New Frontiers for Governance and Democracy in Africa’s AI Era." To appear in _Digital Policy Studies (DPS)_, 2026.
 
 ## 2025
 
