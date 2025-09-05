@@ -6,14 +6,25 @@ author_profile: true
 ---
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Ljcd9nMAAAAJ&hl=en&oi=sra) or [ResearchGate](https://www.researchgate.net/profile/Chinasa-Okolo-2).
+## 2026
+
+**Chinasa T. Okolo**. "Advancing Global Inclusion in International AI Cooperation: An Analysis of African Engagement." To appear in the _Tayarisha Working Papers Series on "Digital Governance Politics and Management: A view from the Global South​"_. 2026.
+
+**Chinasa T. Okolo**. "Datafication and Postcolonial Discontinuities: Analyzing the Sociodigital Exploitation of Africa." To appear in the _Handbook of Critical Data Studies​"_. Edited by Ulises A. Mejias, Jasmine McNealy, and Milagros Miceli. De Gruyter, 2026.
+
+**Chinasa T. Okolo**. "Charting New Frontiers for Governance and Democracy in Africa’s AI Era." To appear in _Digital Policy Studies (DPS)_, 2025.
+
 ## 2025
 
+**Chinasa T. Okolo**, Doreen Abiero, and Melody Musoni. "AI and Data Governance in Africa: Bridging Regional Integration and Global Influence." To appear in the _Journal of Technology and Regulation Special Issue on "From Hype to Reality: Making Sense of AI Governance in Africa"_, 2025.
+
+**Chinasa T. Okolo**. "Envisioning an AI Capacity-Building Partnership for the United States and the Global Majority." To appear in _RAND Geopolitics of AI Initiative_. 2025.
+
+Zainab Chirwa, Jonas Kgomo, and **Chinasa T. Okolo**. "Data Dignity and Governance: Towards A Fair and Equitable Data Ecosystem for Low-Resource Languages." To appear in the _UCT AI & Law Conference Proceedings_, 2025.
 
 **Chinasa T. Okolo**. "Governance of AI-based Algorithms". To appear in the _Handbook of Human-Centered AI_. Edited by Wei Xu. Springer, 2025.
 
-**Chinasa T. Okolo** and Mubarak Raji. "The Majority World in Global AI Governance". To appear in the _Handbook on the Global Governance of AI_. Edited by Markus Furendal and Magnus Lundgren. Edward Elgar Publishing, 2025.
-
-<!--Zainab Chirwa, Jonas Kgomo, and Chinasa T. Okolo. "Data Dignity and Governance: Towards A Fair and Equitable Data Ecosystem for Low-Resource Languages." 2025. -->
+**Chinasa T. Okolo** and Mubarak Raji. "The Majority World in Global AI Governance." To appear in the _Handbook on the Global Governance of AI_. Edited by Markus Furendal and Magnus Lundgren. Edward Elgar Publishing, 2025.
 
 **Chinasa T. Okolo**. [“AI is Not Africa’s Savior: Avoiding Technosolutionism in Digital Development.”](https://www.brookings.edu/articles/ai-is-not-africas-savior-avoiding-technosolutionism-in-digital-development/) _TechTank_. The Brookings Institution, 2025. 
 
