@@ -10,7 +10,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Chinasa T. Okolo**. "Advancing Global Inclusion in International AI Cooperation: An Analysis of African Engagement." To appear in the _Tayarisha Working Papers Series on "Digital Governance Politics and Management: A view from the Global South​"_. 2026.
 
-**Chinasa T. Okolo**. "Datafication and Postcolonial Discontinuities: Analyzing the Sociodigital Exploitation of Africa." To appear in the _Handbook of Critical Data Studies​"_. Edited by Ulises A. Mejias, Jasmine McNealy, and Milagros Miceli. De Gruyter, 2026.
+**Chinasa T. Okolo**. "Datafication and Postcolonial Discontinuities: Analyzing the Sociodigital Exploitation of Africa." To appear in the _Handbook of Critical Data Studies​_. Edited by Ulises A. Mejias, Jasmine McNealy, and Milagros Miceli. De Gruyter, 2026.
 
 **Chinasa T. Okolo**. "Charting New Frontiers for Governance and Democracy in Africa’s AI Era." To appear in _Digital Policy Studies (DPS)_, 2026.
 
@@ -18,7 +18,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Chinasa T. Okolo** and Jonathan Shock. "AI for Africa, by Africa: Rethinking Governance, Data, and Development." To appear in the _African Research Universities Alliance (ARUA) Biennal International Conference_, 2025.
 
-**Chinasa T. Okolo**, Doreen Abiero, and Melody Musoni. "AI and Data Governance in Africa: Bridging Regional Integration and Global Influence." To appear in the _Journal of Technology and Regulation Special Issue on "From Hype to Reality: Making Sense of AI Governance in Africa"_, 2025.
+**Chinasa T. Okolo**, Doreen Abiero, and Melody Musoni. "AI and Data Governance in Africa: Bridging Regional Integration and Global Influence." To appear in the _Journal of Technology and Regulation (TechReg) Special Issue on "From Hype to Reality: Making Sense of AI Governance in Africa"_, 2025.
 
 **Chinasa T. Okolo**. "Envisioning an AI Capacity-Building Partnership for the United States and the Global Majority." To appear in _RAND Geopolitics of AI Initiative_. 2025.
 
@@ -34,7 +34,7 @@ Zainab Chirwa, Jonas Kgomo, and **Chinasa T. Okolo**. "Data Dignity and Governan
 
 Abigail Oppong, Hellina Nigatu, and **Chinasa T. Okolo**. ["Examining the Cultural Encoding of Gender Bias in LLMs for Low-Resourced African Languages."](https://chinasatokolo.github.io/files/Okolo_ACL_2025.pdf) In the [_Workshop on Gender Bias for Natural Language Processing_](https://gebnlp-workshop.github.io/) at the Annual Meeting of the Association for Computational Linguistics (ACL), 2025.
 
-Teanna Barrett, **Chinasa T. Okolo**, B. Biira, Eman Sherif, Amy X. Zhang, and Leilani Battle. ["African Data Ethics: A Discursive Framework for Black Decolonial AI."](https://chinasatokolo.github.io/files/Okolo_FAccT_2025.pdf) In the ACM Conference on Fairness, Accountability and Transparency (FAccT), 2025.
+Teanna Barrett, **Chinasa T. Okolo**, B. Biira, Eman Sherif, Amy X. Zhang, and Leilani Battle. ["African Data Ethics: A Discursive Framework for Black Decolonial AI."](https://chinasatokolo.github.io/files/Okolo_FAccT_2025.pdf) In the _ACM Conference on Fairness, Accountability and Transparency (FAccT)_, 2025.
 
 <!--Charting New Frontiers for Governance and Democracy in Africa’s AI Era. -->
 
