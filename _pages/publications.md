@@ -30,7 +30,7 @@ Zainab Chirwa, Jonas Kgomo, and **Chinasa T. Okolo**. "Data Dignity and Governan
 
 **Chinasa T. Okolo**. [“AI is Not Africa’s Savior: Avoiding Technosolutionism in Digital Development.”](https://www.brookings.edu/articles/ai-is-not-africas-savior-avoiding-technosolutionism-in-digital-development/) _TechTank_. The Brookings Institution, 2025. 
 
-**Chinasa T. Okolo**. ["Generative AI Versus African Democracies"](https://www.thecontinent.org/_files/ugd/287178_90c4e62a13e44b1e9b7dff356d2c4d08.pdf#page=31.12). The Continent, 2025. 
+**Chinasa T. Okolo**. ["Generative AI Versus African Democracies"](https://www.thecontinent.org/_files/ugd/287178_90c4e62a13e44b1e9b7dff356d2c4d08.pdf#page=31.12). Issue 206. _The Continent_, 2025. 
 
 Abigail Oppong, Hellina Nigatu, and **Chinasa T. Okolo**. ["Examining the Cultural Encoding of Gender Bias in LLMs for Low-Resourced African Languages."](https://chinasatokolo.github.io/files/Okolo_ACL_2025.pdf) In the [_Workshop on Gender Bias for Natural Language Processing_](https://gebnlp-workshop.github.io/) at the Annual Meeting of the Association for Computational Linguistics (ACL), 2025.
 
