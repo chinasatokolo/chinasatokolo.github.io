@@ -20,7 +20,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Chinasa T. Okolo**, Doreen Abiero, and Melody Musoni. "AI and Data Governance in Africa: Bridging Regional Integration and Global Influence." To appear in the _Journal of Technology and Regulation (TechReg) Special Issue on "From Hype to Reality: Making Sense of AI Governance in Africa"_, 2025.
 
-**Chinasa T. Okolo**. "Envisioning an AI Capacity-Building Partnership for the United States and the Global Majority." To appear in _RAND Geopolitics of AI Initiative_. 2025.
+<!-- **Chinasa T. Okolo**. "Envisioning an AI Capacity-Building Partnership for the United States and the Global Majority." To appear in _RAND Geopolitics of AI Initiative_. 2025. -->
 
 Zainab Chirwa, Jonas Kgomo, and **Chinasa T. Okolo**. "Data Dignity and Governance: Towards a Fair and Equitable Data Ecosystem for Low-Resource Languages." To appear in the _University of Cape Town (UCT) Artificial Intelligence & Law Conference Proceedings_, 2025.
 
