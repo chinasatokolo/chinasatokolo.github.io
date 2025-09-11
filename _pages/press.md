@@ -12,6 +12,7 @@ author_profile: true
 * **April 2025:** ["Africa’s AI ambitions take the spotlight in Rwanda"](https://www.semafor.com/article/04/02/2025/africas-ai-ambitions-take-the-spotlight-in-rwanda) in SEMAFOR
 * **March 2025:** ["What you need to know about Africa’s first AI factory"](https://restofworld.org/2025/nvidia-africa-ai-factory/) in Rest of World
 * **March 2025:** ["AI for the world, or just the West? How researchers are tackling Big Tech's global gaps"](https://www.zdnet.com/article/ai-for-the-world-or-just-the-west-how-researchers-are-tackling-big-techs-global-gaps/) in ZDNet
+* **Jan 2025:** ["Realizing Africa’s potential"](https://www.brookings.edu/articles/shifting-the-narrative-on-ai-in-africa/) podcast episode in TechTank
 * **October 2024:** ["Old problems, new technologies: inequality, governance, fragility. What does AI mean for development?"](https://www.devintelligencelab.com/intel/24oct2024) in The Intel, Development Intelligence Lab
 * **October 2024:** ["The Gulf's AI Arms Race Is Just Getting Started"](https://www.jamcq.com/p/the-gulfs-ai-arms-race-is-just-getting) in JAM CQ
 * **October 2024:** Segment on [Voice of America _"Straight Talk Africa"_](https://www.voaafrica.com/a/7836268.html) Program
@@ -19,6 +20,7 @@ author_profile: true
 * **September 2024:** ["Nigeria begins AI push with Google-backed fund"](https://www.semafor.com/article/09/12/2024/nigeria-begins-ai-push-with-google-backed-fund) in Semafor
 * **August 2024:** ["The Realities of Women in Artificial Intelligence"](https://www.voaafrica.com/a/7765549.html) Segment on Voice of America "Our Voices" Program
 * **July 2024:** [“When A.I. Fails the Language Test, Who Is Left Out of the Conversation?”](https://www.nytimes.com/2024/07/26/technology/ai-language-gap.html) in the New York Times
+* **July 2024:** ["Shifting the narrative on AI in Africa"](https://www.brookings.edu/articles/shifting-the-narrative-on-ai-in-africa/) podcast episode in Foresight Africa
 * **June 2024:** [“World leaders discuss AI as China’s digital influence in Latin America grows”](https://www.voanews.com/a/world-leaders-discuss-ai-as-china-s-digital-influence-in-latin-america-grows-/7656592.html) in Voice of America
 * **June 2024:** [“A little-known AI startup is behind Nigeria’s first government-backed LLM”](https://restofworld.org/2024/nigeria-awarri-ai-startup-llm/) in Rest of World
 * **June 2024:** [“Once a Red Line, Connecticut Reps Press for Regulating Tech Sector”](https://ctexaminer.com/2024/06/03/once-a-red-line-connecticut-reps-press-for-regulating-tech-sector/) in CT Examiner
