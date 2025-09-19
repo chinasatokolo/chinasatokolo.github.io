@@ -28,6 +28,8 @@ Zainab Chirwa, Jonas Kgomo, and **Chinasa T. Okolo**. "Data Dignity and Governan
 
 **Chinasa T. Okolo** and Mubarak Raji. "The Majority World in Global AI Governance." To appear in the _Handbook on the Global Governance of AI_. Edited by Markus Furendal and Magnus Lundgren. Edward Elgar Publishing, 2025.
 
+<!-- **Chinasa T. Okolo**. "The Paradox of AI Accelerationism." _Science_, 2025.  -->
+
 **Chinasa T. Okolo**. ["AI-Generated Propaganda Threatens African Democracy."](https://democracyinafrica.org/ai-generated-propaganda-threatens-african-democracy/) _Democracy in Africa_, 2025.
 
 **Chinasa T. Okolo**. ["AI is Not Africa’s Savior: Avoiding Technosolutionism in Digital Development."](https://www.brookings.edu/articles/ai-is-not-africas-savior-avoiding-technosolutionism-in-digital-development/) _TechTank_. The Brookings Institution, 2025. 
