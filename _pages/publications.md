@@ -30,6 +30,8 @@ Zainab Chirwa, Jonas Kgomo, and **Chinasa T. Okolo**. "Data Dignity and Governan
 
 <!-- **Chinasa T. Okolo**. "The Paradox of AI Accelerationism." _Science_, 2025.  -->
 
+**Chinasa T. Okolo**. ["Building AI to Serve the Global Majority."](https://www.compiler.news/ai-for-global-majority/) _Compiler_, 2025. 
+
 **Chinasa T. Okolo**. ["AI-Generated Propaganda Threatens African Democracy."](https://democracyinafrica.org/ai-generated-propaganda-threatens-african-democracy/) _Democracy in Africa_, 2025.
 
 **Chinasa T. Okolo**. ["AI is Not Africa’s Savior: Avoiding Technosolutionism in Digital Development."](https://www.brookings.edu/articles/ai-is-not-africas-savior-avoiding-technosolutionism-in-digital-development/) _TechTank_. The Brookings Institution, 2025. 
