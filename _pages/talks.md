@@ -9,6 +9,8 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2025
+* **October 2025:** Panelist in the "African Youth and Women in AI" session at the G20 AI for Africa Conference — _Cape Town, South Africa_
+* **September 2025:** Keynote at the launch of the African Hub on AI Safety, Peace, and Security — _Cape Town, South Africa_
 * **August 2025:** Keynote at the [1st CoCrea Forum on Generative AI](https://colombiacrea.org/cumbre-del-jaguar/) — _Medellín, Colombia_
 * **August 2025:** "AI governance, ethics, and data sovereignty" panel at the Gates Foundation AI for Disease Modeling Convening — _Dakar, Senegal_
 * **July 2025:** Keynote for the World Bank Group "DRIVE for People" AI Training Workshop — _Washington, D.C._
