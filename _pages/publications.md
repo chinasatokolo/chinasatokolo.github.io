@@ -20,7 +20,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Chinasa T. Okolo**, Doreen Abiero, and Melody Musoni. "AI and Data Governance in Africa: Bridging Regional Integration and Global Influence." To appear in the _Journal of Technology and Regulation (TechReg) Special Issue on "From Hype to Reality: Making Sense of AI Governance in Africa,"_ 2025.
 
-<!-- **Chinasa T. Okolo**. "Envisioning an AI Capacity-Building Partnership for the United States and the Global Majority." To appear in _RAND Geopolitics of AI Initiative_. 2025. -->
+<!-- **Chinasa T. Okolo**. "Envisioning an AI Capacity-Building Partnership for the United States and the Global Majority." 2025. -->
 
 Zainab Chirwa, Jonas Kgomo, and **Chinasa T. Okolo**. "Data Dignity and Governance: Towards a Fair and Equitable Data Ecosystem for Low-Resource Languages." To appear in the _University of Cape Town (UCT) Artificial Intelligence & Law Conference Proceedings_, 2025.
 
@@ -28,7 +28,7 @@ Zainab Chirwa, Jonas Kgomo, and **Chinasa T. Okolo**. "Data Dignity and Governan
 
 **Chinasa T. Okolo** and Mubarak Raji. "The Majority World in Global AI Governance." To appear in the _Handbook on the Global Governance of AI_. Edited by Markus Furendal and Magnus Lundgren. Edward Elgar Publishing, 2025.
 
-**Chinasa T. Okolo**. "The paradox of AI accelerationism and the promise of public interest AI." _Science_, 2025.
+**Chinasa T. Okolo**. ["The paradox of AI accelerationism and the promise of public interest AI."](https://www.science.org/doi/10.1126/science.aeb5789) _Science_, 2025.
 
 **Chinasa T. Okolo**. ["Building AI to Serve the Global Majority."](https://www.compiler.news/ai-for-global-majority/) _Compiler_, 2025. 
 
