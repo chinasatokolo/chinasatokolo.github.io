@@ -26,7 +26,7 @@ Zainab Chirwa, Jonas Kgomo, and **Chinasa T. Okolo**. "Data Dignity and Governan
 
 **Chinasa T. Okolo** and Mubarak Raji. "The Majority World in Global AI Governance." To appear in the _Handbook on the Global Governance of AI_. Edited by Markus Furendal and Magnus Lundgren. Edward Elgar Publishing, 2025.
 
-**Chinasa T. Okolo**. "Governance of AI-based Algorithms." In the _Handbook of Human-Centered AI_. Edited by Wei Xu. Springer, 2025.
+**Chinasa T. Okolo**. "Governance of AI-based Algorithms." In the [_Handbook of Human-Centered AI_](https://link.springer.com/rwe/10.1007/978-981-97-8440-0_84-1). Edited by Wei Xu. Springer, 2025.
 
 Michelle Du and **Chinasa T. Okolo**. ["Reimagining the Future of Data and AI Labor in the Global South."](https://www.brookings.edu/articles/reimagining-the-future-of-data-and-ai-labor-in-the-global-south/) _TechTank_. The Brookings Institution, 2025. 
 
