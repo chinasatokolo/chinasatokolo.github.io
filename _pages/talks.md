@@ -10,12 +10,12 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatoko
 
 ### 2025
 * **November 2025:** Keynote at the 8th Annual MIT Policy Hackathon — _Virtual_
-* **November 2025:**  Expert Roundtable on Open Internet and Innovation at the European University Institute (EUI) — _Florence, Italy_
+* **November 2025:** [Expert Roundtable on Open Internet and Innovation](https://www.eui.eu/events?id=580376) at the European University Institute (EUI) — _Florence, Italy_
 * **November 2025:** [“Code of the Continent: Designing an African Future with AI”](https://whartonafrica.org/panels/ai-tech-panel) session at the Wharton Africa Business Forum — _Philadelphia, PA_
 * **October 2025:** blackcomputeHER Reimagining AI Summit — _Atlanta, GA_
 * **October 2025:** UNA-NCA Young Professionals Career Dinner — _Washington, D.C._
 * **October 2025:** "African Youth and Women in AI" session at the [G20 AI for Africa Conference](https://www.unesco.org/en/articles/ais-potential-africa-development-and-prosperity) — _Cape Town, South Africa_
-* **September 2025:** Keynote at the launch of the African Hub on AI Safety, Peace, and Security — _Cape Town, South Africa_
+* **September 2025:** Keynote at the [launch](https://ai.uct.ac.za/events/launch-african-hub-ai-safety-peace-and-security) of the African Hub on AI Safety, Peace, and Security — _Cape Town, South Africa_
 * **August 2025:** Keynote at the [1st CoCrea Forum on Generative AI](https://colombiacrea.org/cumbre-del-jaguar/) — _Medellín, Colombia_
 * **August 2025:** "AI Governance, Ethics, and Data Sovereignty" panel at the Gates Foundation AI for Disease Modeling Convening — _Dakar, Senegal_
 * **July 2025:** Keynote for the World Bank Group "DRIVE for People" AI Training Workshop — _Washington, D.C._
