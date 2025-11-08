@@ -14,7 +14,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatoko
 * **November 2025:** [“Code of the Continent: Designing an African Future with AI”](https://whartonafrica.org/panels/ai-tech-panel) session at the Wharton Africa Business Forum — _Philadelphia, PA_
 * **October 2025:** blackcomputeHER Reimagining AI Summit — _Atlanta, GA_
 * **October 2025:** UNA-NCA Young Professionals Career Dinner — _Washington, D.C._
-* **October 2025:** Panelist in the "African Youth and Women in AI" session at the G20 AI for Africa Conference — _Cape Town, South Africa_
+* **October 2025:** "African Youth and Women in AI" session at the G20 AI for Africa Conference — _Cape Town, South Africa_
 * **September 2025:** Keynote at the launch of the African Hub on AI Safety, Peace, and Security — _Cape Town, South Africa_
 * **August 2025:** Keynote at the [1st CoCrea Forum on Generative AI](https://colombiacrea.org/cumbre-del-jaguar/) — _Medellín, Colombia_
 * **August 2025:** "AI governance, ethics, and data sovereignty" panel at the Gates Foundation AI for Disease Modeling Convening — _Dakar, Senegal_
@@ -42,7 +42,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatoko
 * **March 2025:** "Risks and rewards in the Al race" panel at [EuroFinance Treasury & Cash Management Summit West Coast](https://www.eurofinance.com/treasury-cash-management-summit-west-coast/agenda/) — _Santa Clara, CA_
 * **February 2025:** [“Green futures: AI, ecology, and policies for people and the planet”](https://www.rightscon.org/program/) Session at RightsCon — _Taipei, Taiwan_
 * **February 2025:** [Artificial Intelligence Strategy in the Security Domain Development Seminar](https://africacenter.org/programs/ai-strategy/) for the Africa Center for Strategic Studies — _Remote_
-* **February 2025:** [“Global Governance of AI: Political and Ethical Challenges Across National, Regional, and International Approaches”](https://mediaspace.illinois.edu/media/t/1_exbnmxrt) Panel at the University of Illinois — _Remote_
+* **February 2025:** [“Global Governance of AI: Political and Ethical Challenges Across National, Regional, and International Approaches”](https://mediaspace.illinois.edu/media/t/1_exbnmxrt) panel at the University of Illinois — _Remote_
 * **February 2025:** “Africa’s AI Strategy: Opportunities, Challenges, and the Path Forward” Panel at the [Harvard Africa Business Conference](https://www.africa-hbsclub.com/) — _Cambridge, MA_
 * **February 2025:** United Nations Diplomats Briefing “AI Key Concepts and Recent Trends: Information Session for Member States" for the UN Office for Digital and Emerging Technologies (ODET) — _Remote_
 * **February 2025:** "AI and the Global Majority" Lecture for the EUI Florence School of Transnational Governance [AI and Governance: Embracing and Harnessing AI for the Public Good Course](https://www.eui.eu/apply?id=ai-and-governance-embracing-and-harnessing-ai-for-the-public-good) — _Remote_
