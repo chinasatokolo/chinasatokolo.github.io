@@ -9,7 +9,7 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2025
-* **November 2025:** Keynote at the 8th Annual MIT Policy Hackathon — _Virtual_
+* **November 2025:** Keynote at the 8th Annual [MIT Policy Hackathon](https://www.mitpolicyhackathon.org/) — _Virtual_
 * **November 2025:** [Expert Roundtable on Open Internet and Innovation](https://www.eui.eu/events?id=580376) at the European University Institute (EUI) — _Florence, Italy_
 * **November 2025:** [“Code of the Continent: Designing an African Future with AI”](https://whartonafrica.org/panels/ai-tech-panel) session at the Wharton Africa Business Forum — _Philadelphia, PA_
 * **October 2025:** blackcomputeHER Reimagining AI Summit — _Atlanta, GA_
