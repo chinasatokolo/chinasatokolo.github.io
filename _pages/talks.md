@@ -9,6 +9,8 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2025
+* **November 2025:** Wharton Africa Business Forum — _Philadelphia, PA_
+* **October 2025:** blackcomputeHER Reimagining AI Summit — _Atlanta, GA_
 * **October 2025:** UNA-NCA Young Professionals Career Dinner — _Washington, D.C._
 * **October 2025:** Panelist in the "African Youth and Women in AI" session at the G20 AI for Africa Conference — _Cape Town, South Africa_
 * **September 2025:** Keynote at the launch of the African Hub on AI Safety, Peace, and Security — _Cape Town, South Africa_
