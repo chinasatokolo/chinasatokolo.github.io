@@ -73,7 +73,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatoko
 * **October 2024:** [Charting an AI Roadmap for the Emerging World](https://www.youtube.com/watch?app=desktop&v=itGA6F2l4_s) on the Siliconsciousness podcast — _Remote_
 * **October 2024:** [Michigan AI Seminar](https://ai.engin.umich.edu/events/) — _Ann Arbor, MI_
 * **October 2024:** [Fundraising.AI Summit](https://app.experiencewelcome.com/events/vgurAv) — _Remote_
-* **September 2024:** Wilson Center Science and Technology Innovation Program (STIP) Roundtable on AI in the Global South — _New York, NY_
+* **September 2024:** Wilson Center Science and Technology Innovation Program Roundtable on "AI in the Global South" — _New York, NY_
 * **September 2024:** "The State of AI Governance in the African Union" panel at The Research Conference on Communications, Information and Internet Policy (TPRC) — _Washington, D.C._
 * **September 2024:** ["The Transformative Power of AI"](https://time.com/7021119/time100-impact-dinner-ai-transformative-potential-kurzweil-okolo-kelly-kumar/) panel at the TIME100 Impact Dinner: Leaders Shaping the Future of AI — _San Francisco, CA_
 * **September 2024:** ["The Promise and Perils of AI: Issues at Stake in the 2024 Election"](https://www.brookings.edu/events/2024-election-promise-and-perils-of-ai/) event in collaboration with The Brookings Institution and Spelman College — _Atlanta, GA_
