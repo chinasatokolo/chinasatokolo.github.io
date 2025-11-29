@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-To contact me for interviews or speaking engagements, please email Technecultura's Media Office. General inquiries can also be done through [LinkedIn](https://www.linkedin.com/in/chinasatokolo).
+To contact me for interviews or speaking engagements, please email Technecultura's Media Office. General inquiries can also be done through [LinkedIn](https://www.linkedin.com/in/chinasatokolo). My Cornell email is active indefinitely.
 
 ### Media Contact:
 Technecultura \
