@@ -9,7 +9,7 @@ To contact me for interviews or speaking engagements, please email Technecultura
 
 ### Media Contact:
 Technecultura \
-Technecultura Media Office
+Technecultura Media Office \
 media [at] technecultura [dot] org
 
 ### Biography & Headshots
