@@ -16,6 +16,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ## 2025
 
+Sumaya Nur Adan, Joanna Wiaterek, Varun Sen Bahl, Ima Bello, Camila Beltran, Tobias Dierks, Luise Eder, Liam Epstein, Abra Ganz, Natalie Kiilu, Marianne Lu, **Chinasa T. Okolo**, Sydney Reis, Said Saillant, Krishna Sharma, Marjia Siddik, Jan Pieter Snoeij, José Jaime Villalobos, and Anna Yelizarova. ["AI Benefit-Sharing Framework: Balancing Access and Safety."](https://aigi.ox.ac.uk/publications/ai-benefit-sharing-framework-balancing-access-and-safety/) Oxford Martin AI Governance Initiative, 2025. 
+
 **Chinasa T. Okolo** and Jonathan Shock. "AI for Africa, by Africa: Rethinking Governance, Data, and Development." To appear in the _African Research Universities Alliance (ARUA) Biennial International Conference_, 2025.
 
 **Chinasa T. Okolo**, Doreen Abiero, and Melody Musoni. "AI and Data Governance in Africa: Bridging Regional Integration and Global Influence." To appear in the _Journal of Technology and Regulation (TechReg) Special Issue on "From Hype to Reality: Making Sense of AI Governance in Africa,"_ 2025.
