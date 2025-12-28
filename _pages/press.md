@@ -38,6 +38,7 @@ author_profile: true
 
 
 ## Media & Research Features
+* ["19 African Women Leading The Global AI Transformation"](https://leadingladiesafrica.org/2025/08/25/19-african-women-leading-the-global-ai-transformation/) in Leading Ladies Africa
 * **July 2025:** ["After the Swahili AI Race: Africa’s Fight for Language Infrastructure Control"](https://www.geopoliticalmonitor.com/after-the-swahili-ai-race-africas-fight-for-language-infrastructure-control) in Geopolitical Monitor
 * **December 2024:** [Most Influential Africans of 2024](https://100.newafricanmagazine.com/) by New African Magazine
 * **December 2024:** [30 Under 30 AI](https://www.forbes.com/30-under-30/2025/ai) by Forbes
