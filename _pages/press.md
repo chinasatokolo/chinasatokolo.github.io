@@ -50,6 +50,7 @@ author_profile: true
 * **September 2024:** [“Focus on Africa Podcast”](https://www.bbc.co.uk/sounds/play/p0jq52jk?partner=uk.co.bbc&origin=share-mobile) in BBC
 * **September 2024:** [“The 100 Most Influential People in AI 2024”](https://time.com/7012894/chinasa-t-okolo/) in TIME
 * **May 2024:** [“Women in AI: Chinasa T. Okolo researches AI’s impact on the Global South”](https://techcrunch.com/2024/05/24/women-in-ai-chinasa-t-okolo-researches-ais-impact-on-the-global-south/?) in TechCrunch
+* **Septemnber 2022:** [Think You’re Not an Entrepreneur? Think Again!](https://awis.org/resource/think-youre-not-entrepreneur-think/) in Association for Women in Science (AWIS) Magazine
 * **May 2022:** [“Global labor chains of the western AI”](https://netzpolitik.org/2022/series-on-digital-colonialism-global-labor-chains-of-the-western-ai/) in Netzpolitik
 * **April 2022:** [“This is why the developing world is far behind – and that’s a problem for all of us”](https://www.weforum.org/agenda/2022/04/developing-countries-are-being-left-behind-in-the-ai-race-and-that-s-a-problem-for-all-of-us/) in World Economic Forum 
 * **April 2022:** [“Developing countries are being left behind in the AI race – and that's a problem for all of us”](https://uk.news.yahoo.com/developing-countries-being-left-behind-114724193.html?guccounter=1) in Yahoo! News 
