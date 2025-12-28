@@ -39,10 +39,13 @@ author_profile: true
 
 ## Media & Research Features
 * **August 2025:** ["19 African Women Leading The Global AI Transformation"](https://leadingladiesafrica.org/2025/08/25/19-african-women-leading-the-global-ai-transformation/) in Leading Ladies Africa
+* **July 2025:** [Nigeria’s AI revolution: These 5 visionaries are leading the charge](https://businessday.ng/bd-weekender/article/nigerias-ai-revolution-these-5-visionaries-are-leading-the-charge/) in Business Day
 * **July 2025:** ["After the Swahili AI Race: Africa’s Fight for Language Infrastructure Control"](https://www.geopoliticalmonitor.com/after-the-swahili-ai-race-africas-fight-for-language-infrastructure-control) in Geopolitical Monitor
 * **December 2024:** [Most Influential Africans of 2024](https://100.newafricanmagazine.com/) by New African Magazine
 * **December 2024:** [30 Under 30 AI](https://www.forbes.com/30-under-30/2025/ai) by Forbes
+* **November 2024:** [From data to decisions: Five Nigerians leading intelligent transformation](https://thenationonlineng.net/from-data-to-decisions-five-nigerians-leading-intelligent-transformation/) in The Nation
 * **October 2024:** [Interview](https://www.youtube.com/watch?v=lJTFOZQplcc) with Channels TV
+* **September 2024:** [Meet Chinasa Okolo, Nigerian on Time’s 100 people in AI](https://businessday.ng/technology/article/meet-chinasa-okolo-nigerian-on-times-100-people-in-ai/) in Business Day
 * **September 2024:** [“TIME Magazine Names Chinasa T. Okolo ’18 One of 100 Most Influential People in AI”](https://www.pomona.edu/news/2024/09/16-time-magazine-names-chinasa-t-okolo-18-one-100-most-influential-people-ai) by Pomona College
 * **September 2024:** [“Focus on Africa Podcast”](https://www.bbc.co.uk/sounds/play/p0jq52jk?partner=uk.co.bbc&origin=share-mobile) in BBC
 * **September 2024:** [“The 100 Most Influential People in AI 2024”](https://time.com/7012894/chinasa-t-okolo/) in TIME
