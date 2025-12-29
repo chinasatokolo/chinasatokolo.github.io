@@ -16,7 +16,7 @@ author_profile: true
 * **Jan 2025:** ["Realizing Africa’s potential"](https://www.brookings.edu/articles/shifting-the-narrative-on-ai-in-africa/) podcast episode in TechTank
 * **October 2024:** ["Old problems, new technologies: inequality, governance, fragility. What does AI mean for development?"](https://www.devintelligencelab.com/intel/24oct2024) in The Intel, Development Intelligence Lab
 * **October 2024:** ["The Gulf's AI Arms Race Is Just Getting Started"](https://www.jamcq.com/p/the-gulfs-ai-arms-race-is-just-getting) in JAM CQ
-* **October 2024:** Segment on [Voice of America _"Straight Talk Africa"_](https://www.voaafrica.com/a/7836268.html) Program
+* **October 2024:** Segment on [Voice of America _"Straight Talk Africa"](https://www.voaafrica.com/a/7836268.html) Program
 * **September 2024:** ["At TIME100 Impact Dinner, AI Leaders Discuss the Technology’s Transformative Potential"](https://time.com/7021119/time100-impact-dinner-ai-transformative-potential-kurzweil-okolo-kelly-kumar/) in TIME
 * **September 2024:** ["Nigeria begins AI push with Google-backed fund"](https://www.semafor.com/article/09/12/2024/nigeria-begins-ai-push-with-google-backed-fund) in Semafor
 * **August 2024:** ["The Realities of Women in Artificial Intelligence"](https://www.voaafrica.com/a/7765549.html) Segment on Voice of America "Our Voices" Program
@@ -44,15 +44,15 @@ author_profile: true
 * **July 2025:** ["After the Swahili AI Race: Africa’s Fight for Language Infrastructure Control"](https://www.geopoliticalmonitor.com/after-the-swahili-ai-race-africas-fight-for-language-infrastructure-control) in Geopolitical Monitor
 * **December 2024:** [Most Influential Africans of 2024](https://100.newafricanmagazine.com/) by New African Magazine
 * **December 2024:** [30 Under 30 AI](https://www.forbes.com/30-under-30/2025/ai) by Forbes
-* **November 2024:** [From data to decisions: Five Nigerians leading intelligent transformation](https://thenationonlineng.net/from-data-to-decisions-five-nigerians-leading-intelligent-transformation/) in The Nation
+* **November 2024:** ["From data to decisions: Five Nigerians leading intelligent transformation"](https://thenationonlineng.net/from-data-to-decisions-five-nigerians-leading-intelligent-transformation/) in The Nation
 * **October 2024:** [Interview](https://www.youtube.com/watch?v=lJTFOZQplcc) with Channels TV
-* **September 2024:** [Computer scientist Chinasa Okolo makes Time Magazine’s 100 most influential people in artificial intelligence](https://gazettengr.com/computer-scientist-chinasa-okolo-makes-time-magazines-100-most-influential-people-in-artificial-intelligence/) in Peoples Gazette
-* **September 2024:** [Meet Chinasa Okolo, Nigerian on Time’s 100 people in AI](https://businessday.ng/technology/article/meet-chinasa-okolo-nigerian-on-times-100-people-in-ai/) in Business Day
+* **September 2024:** ["Computer scientist Chinasa Okolo makes Time Magazine’s 100 most influential people in artificial intelligence"](https://gazettengr.com/computer-scientist-chinasa-okolo-makes-time-magazines-100-most-influential-people-in-artificial-intelligence/) in Peoples Gazette
+* **September 2024:** ["Meet Chinasa Okolo, Nigerian on Time’s 100 people in AI"](https://businessday.ng/technology/article/meet-chinasa-okolo-nigerian-on-times-100-people-in-ai/) in Business Day
 * **September 2024:** [“TIME Magazine Names Chinasa T. Okolo ’18 One of 100 Most Influential People in AI”](https://www.pomona.edu/news/2024/09/16-time-magazine-names-chinasa-t-okolo-18-one-100-most-influential-people-ai) by Pomona College
 * **September 2024:** [“Focus on Africa Podcast”](https://www.bbc.co.uk/sounds/play/p0jq52jk?partner=uk.co.bbc&origin=share-mobile) in BBC
 * **September 2024:** [“The 100 Most Influential People in AI 2024”](https://time.com/7012894/chinasa-t-okolo/) in TIME
 * **May 2024:** [“Women in AI: Chinasa T. Okolo researches AI’s impact on the Global South”](https://techcrunch.com/2024/05/24/women-in-ai-chinasa-t-okolo-researches-ais-impact-on-the-global-south/?) in TechCrunch
-* **September 2022:** [Think You’re Not an Entrepreneur? Think Again!](https://awis.org/resource/think-youre-not-entrepreneur-think/) in the Association for Women in Science (AWIS) Magazine
+* **September 2022:** ["Think You’re Not an Entrepreneur? Think Again!"](https://awis.org/resource/think-youre-not-entrepreneur-think/) in the Association for Women in Science (AWIS) Magazine
 * **May 2022:** [“Global labor chains of the western AI”](https://netzpolitik.org/2022/series-on-digital-colonialism-global-labor-chains-of-the-western-ai/) in Netzpolitik
 * **April 2022:** [“This is why the developing world is far behind – and that’s a problem for all of us”](https://www.weforum.org/agenda/2022/04/developing-countries-are-being-left-behind-in-the-ai-race-and-that-s-a-problem-for-all-of-us/) in World Economic Forum 
 * **April 2022:** [“Developing countries are being left behind in the AI race – and that's a problem for all of us”](https://uk.news.yahoo.com/developing-countries-being-left-behind-114724193.html?guccounter=1) in Yahoo! News 
