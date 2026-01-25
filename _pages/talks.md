@@ -9,6 +9,7 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2026
+* **January 2026:** Penn Carey Law Journal of International Law Symposium — _Philadelphia, PA_
 * **January 2026:** Lecture at the Data Privacy & Protection Masterclass by Privacy Hub Africa — _Remote_
 * **January 2026:** Panel discussion at the inaugural [Mila AI Policy Conference](https://mila.quebec/en/event/the-mila-ai-policy-conference) — _Montreal, Canada_
 
