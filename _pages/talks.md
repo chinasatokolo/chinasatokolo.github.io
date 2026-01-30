@@ -11,7 +11,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatoko
 ### 2026  
 * **January 2026:** Penn Carey Law Journal of International Law Symposium — _Philadelphia, PA_
 * **January 2026:** Keynote address the Nsk.ai Exchange Workshop on AI Governance and Data Privacy — _Remote_
-* **January 2026:** Panel at "Benchmarking Beyond Borders: Making AI Testing Truly Global" hosted by the Center for Democracy and Technology — _Washington, D.C._
+* **January 2026:** Panel at ["Benchmarking Beyond Borders: Making AI Testing Truly Global"](https://www.youtube.com/live/glO0_SwVZ5U) hosted by the Center for Democracy and Technology — _Washington, D.C._
 * **January 2026:** Lecture at the Data Privacy & Protection Masterclass by Privacy Hub Africa — _Remote_
 * **January 2026:** Panel discussion at the inaugural [Mila AI Policy Conference](https://mila.quebec/en/event/the-mila-ai-policy-conference) — _Montreal, Canada_
 
