@@ -16,9 +16,12 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Chinasa T. Okolo** and Mubarak Raji. "The Majority World in Global AI Governance." To appear in the _Handbook on the Global Governance of AI_. Edited by Markus Furendal and Magnus Lundgren. Edward Elgar Publishing, 2026.
 
+
 **Chinasa T. Okolo**. ["Priorities for U.S. Participation in International AI Capacity-Building."](https://www.lawfaremedia.org/article/priorities-for-u.s.-participation-in-international-ai-capacity-building) _Lawfare_, 2026.
 
 ## 2025
+
+**Chinasa T. Okolo**. [AI Governance in a Global Context: Policy and Regulatory Approaches](https://download.networkreadinessindex.org/reports/data/2025/nri-2025.pdf). In the _2025 Network Readiness Index_. Portulans Institute, 2025.
 
 **Chinasa T. Okolo**. ["The High Cost of U.S. Absence from Global AI Partnerships."](https://theopinionpages.com/2025/12/the-high-cost-of-u-s-absence-from-global-ai-partnerships/) _The Opinion Pages_, 2025. 
 
