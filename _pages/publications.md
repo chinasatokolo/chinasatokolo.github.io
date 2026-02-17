@@ -24,7 +24,7 @@ Gathoni Ireri, Cecil Abungu, Jean Cheptumo, Sienka Dounia, Mark Gitau, Stephanie
 
 ## 2025
 
-**Chinasa T. Okolo**. [AI Governance in a Global Context: Policy and Regulatory Approaches](https://download.networkreadinessindex.org/reports/data/2025/nri-2025.pdf). In the _2025 Network Readiness Index_. Portulans Institute, 2025.
+**Chinasa T. Okolo**. ["AI Governance in a Global Context: Policy and Regulatory Approaches."](https://download.networkreadinessindex.org/reports/data/2025/nri-2025.pdf). In the _2025 Network Readiness Index_. Portulans Institute, 2025.
 
 **Chinasa T. Okolo**. ["The High Cost of U.S. Absence from Global AI Partnerships."](https://theopinionpages.com/2025/12/the-high-cost-of-u-s-absence-from-global-ai-partnerships/) _The Opinion Pages_, 2025. 
 
