@@ -16,6 +16,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Chinasa T. Okolo** and Mubarak Raji. "The Majority World in Global AI Governance." To appear in the _Handbook on the Global Governance of AI_. Edited by Markus Furendal and Magnus Lundgren. Edward Elgar Publishing, 2026.
 
+Gathoni Ireri, Cecil Abungu, Jean Cheptumo, Sienka Dounia, Mark Gitau, Stephanie Kasaon, Michael Michie, **Chinasa T. Okolo**, Jonathan Shock. ["Assessing the Case for Africa-Centric AI Safety Evaluations."](https://arxiv.org/abs/2602.13757) ILINA Program, 2026.
 
 **Chinasa T. Okolo**. ["Priorities for U.S. Participation in International AI Capacity-Building."](https://www.lawfaremedia.org/article/priorities-for-u.s.-participation-in-international-ai-capacity-building) _Lawfare_, 2026.
 
