@@ -9,6 +9,10 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2026  
+* **February 2026:** ["Toward Collective Action: A Roundtable on Safe & Trusted AI"](https://www.youtube.com/watch?v=xZlAkpybI0k) panel at the AI Impact Summit — _New Delhi, India_
+* **February 2026:** ["Advancing Multilingual AI: Global South Governance of Non-English Model Development and Deployment"](https://www.youtube.com/watch?v=KmvuQ1ece0U) panel at the AI Impact Summit — _New Delhi, India_
+* **February 2026:** "Data Governance at the Intersection of Digital Public Infrastructure and Artificial Intelligence" panel at the AI Impact Summit — _New Delhi, India_
+* **February 2026:** AI Startups in Africa briefing presentation to the Harvard Business School Africa Research Center — _Remote_
 * **January 2026:** [Penn Carey Law Journal of International Law Symposium](https://www.pennlawjil.com/symposium-1) — _Philadelphia, PA_
 * **January 2026:** Keynote address the Nsk.ai Exchange Workshop on AI Governance and Data Privacy — _Remote_
 * **January 2026:** Panel at ["Benchmarking Beyond Borders: Making AI Testing Truly Global"](https://www.youtube.com/live/glO0_SwVZ5U) hosted by the Center for Democracy and Technology — _Washington, D.C._
