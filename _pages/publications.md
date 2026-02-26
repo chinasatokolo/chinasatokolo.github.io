@@ -14,6 +14,12 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Chinasa T. Okolo**. "Charting New Frontiers for Governance and Democracy in Africa’s AI Era." To appear in _Digital Policy Studies (DPS)_, 2026.
 
+**Chinasa T. Okolo** and Jonathan Shock. "AI for Africa, by Africa: Rethinking Governance, Data, and Development." To appear in the _African Research Universities Alliance (ARUA) Biennial International Conference_, 2026.
+
+**Chinasa T. Okolo**, Doreen Abiero, and Melody Musoni. "AI and Data Governance in Africa: Bridging Regional Integration and Global Influence." To appear in the _Journal of Technology and Regulation (TechReg) Special Issue on "From Hype to Reality: Making Sense of AI Governance in Africa,"_ 2026.
+
+Zainab Chirwa, Jonas Kgomo, and **Chinasa T. Okolo**. "Data Dignity and Governance: Towards a Fair and Equitable Data Ecosystem for Low-Resource Languages." To appear in the _University of Cape Town (UCT) Artificial Intelligence & Law Conference Proceedings_, 2026.
+
 **Chinasa T. Okolo** and Mubarak Raji. "The Majority World in Global AI Governance." To appear in the _Handbook on the Global Governance of AI_. Edited by Markus Furendal and Magnus Lundgren. Edward Elgar Publishing, 2026.
 
 **Chinasa T. Okolo.** ["Corporate Interests Must Not Co-Opt Africa’s AI Moment."](https://panafricanreview.com/corporate-interests-must-not-co-opt-africas-ai-moment/) _The Pan-African Review_, 2026.
@@ -29,12 +35,6 @@ Gathoni Ireri, Cecil Abungu, Jean Cheptumo, Sienka Dounia, Mark Gitau, Stephanie
 **Chinasa T. Okolo**. ["The High Cost of U.S. Absence from Global AI Partnerships."](https://theopinionpages.com/2025/12/the-high-cost-of-u-s-absence-from-global-ai-partnerships/) _The Opinion Pages_, 2025. 
 
 Sumaya Nur Adan, Joanna Wiaterek, Varun Sen Bahl, Ima Bello, Camila Beltran, Tobias Dierks, Luise Eder, Liam Epstein, Abra Ganz, Natalie Kiilu, Marianne Lu, **Chinasa T. Okolo**, Sydney Reis, Said Saillant, Krishna Sharma, Marjia Siddik, Jan Pieter Snoeij, José Jaime Villalobos, and Anna Yelizarova. ["AI Benefit-Sharing Framework: Balancing Access and Safety."](https://aigi.ox.ac.uk/publications/ai-benefit-sharing-framework-balancing-access-and-safety/) Oxford Martin AI Governance Initiative, 2025. 
-
-**Chinasa T. Okolo** and Jonathan Shock. "AI for Africa, by Africa: Rethinking Governance, Data, and Development." To appear in the _African Research Universities Alliance (ARUA) Biennial International Conference_, 2025.
-
-**Chinasa T. Okolo**, Doreen Abiero, and Melody Musoni. "AI and Data Governance in Africa: Bridging Regional Integration and Global Influence." To appear in the _Journal of Technology and Regulation (TechReg) Special Issue on "From Hype to Reality: Making Sense of AI Governance in Africa,"_ 2025.
-
-Zainab Chirwa, Jonas Kgomo, and **Chinasa T. Okolo**. "Data Dignity and Governance: Towards a Fair and Equitable Data Ecosystem for Low-Resource Languages." To appear in the _University of Cape Town (UCT) Artificial Intelligence & Law Conference Proceedings_, 2025.
 
 Kevin R.B. Butler, Sunny Consolvo, Katie Siek, Tammy Toscos, ..., **Chinasa T. Okolo**, et al. ["Supporting At-Risk Users Through Responsible Computing."](http://cra.org/ccc/wp-content/uploads/sites/2/2025/10/Supporting-At-Risk-Users-Through-Responsible-Computing.pdf) Computing Research Association (CRA), 2025.
 
