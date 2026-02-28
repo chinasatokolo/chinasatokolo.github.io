@@ -9,8 +9,8 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2026  
-* **March 2026:** Guest Lecture within the “AI: Policy, Law, and Ethics” course, Cornell University — _Ithaca, NY_
-* **March 2026:** Guest Lecture within the “Artificial Intelligence, Ethics, and Society" course, Yale University — _New Haven, CT_
+* **March 2026:** Guest lecture within the “AI: Policy, Law, and Ethics” course, Cornell University — _Ithaca, NY_
+* **March 2026:** Guest lecture within the “Artificial Intelligence, Ethics, and Society" course, Yale University — _New Haven, CT_
 * **February 2026:** "International Co-ordination for Inclusive Technology" Panel at the Tech for Good Conference, UChicago — _Remote_
 * **February 2026:** "Anticolonial AI: Reclaiming Power Against Systems of Algorithmic Extraction" talk at the Decolonial Perspectives Symposium, All Souls College — _Oxford, UK_
 * **February 2026:** ["Toward Collective Action: A Roundtable on Safe & Trusted AI"](https://www.youtube.com/watch?v=xZlAkpybI0k) Panel at the AI Impact Summit — _New Delhi, India_
@@ -32,6 +32,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatoko
 * **October 2025:** UNA-NCA Young Professionals Career Dinner — _Washington, D.C._
 * **October 2025:** "African Youth and Women in AI" session at the [G20 AI for Africa Conference](https://www.unesco.org/en/articles/ais-potential-africa-development-and-prosperity) — _Cape Town, South Africa_
 * **September 2025:** Keynote at the [launch](https://ai.uct.ac.za/events/launch-african-hub-ai-safety-peace-and-security) of the African Hub on AI Safety, Peace, and Security — _Cape Town, South Africa_
+* **September 2025:** Guest [lecture](https://www.youtube.com/watch?v=8GiOHJiIy0w) in the Shock Lab, University of Cape Town — _Remote_
 * **August 2025:** Keynote at the [1st CoCrea Forum on Generative AI](https://colombiacrea.org/cumbre-del-jaguar/) — _Medellín, Colombia_
 * **August 2025:** "AI Governance, Ethics, and Data Sovereignty" panel at the Gates Foundation AI for Disease Modeling Convening — _Dakar, Senegal_
 * **July 2025:** Keynote for the World Bank Group "DRIVE for People" AI Training Workshop — _Washington, D.C._
