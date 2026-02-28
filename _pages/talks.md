@@ -9,6 +9,9 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2026  
+* **March 2026:** Inclusive AI Governance Guest Lecture, Global AI Governance (SEST 6735), Cornell University — _Ithaca, NY_
+* **March 2026:** Inclusive AI Governance Guest Lecture, Global AI Governance (SEST 6735), Yale University — _New Haven, CT_
+* **February 2026:** "International Co-ordination for Inclusive Technology" Panel at the Tech for Good Conference, UChicago — _Remote_
 * **February 2026:** "Anticolonial AI: Reclaiming Power Against Systems of Algorithmic Extraction" talk at the Decolonial Perspectives Symposium, All Souls College — _Oxford, UK_
 * **February 2026:** ["Toward Collective Action: A Roundtable on Safe & Trusted AI"](https://www.youtube.com/watch?v=xZlAkpybI0k) panel at the AI Impact Summit — _New Delhi, India_
 * **February 2026:** ["Advancing Multilingual AI: Global South Governance of Non-English Model Development and Deployment"](https://www.youtube.com/watch?v=KmvuQ1ece0U) panel at the AI Impact Summit — _New Delhi, India_
