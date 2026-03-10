@@ -34,11 +34,13 @@ Gathoni Ireri, Cecil Abungu, Jean Cheptumo, Sienka Dounia, Mark Gitau, Stephanie
 
 **Chinasa T. Okolo**. ["The High Cost of U.S. Absence from Global AI Partnerships."](https://theopinionpages.com/2025/12/the-high-cost-of-u-s-absence-from-global-ai-partnerships/) _The Opinion Pages_, 2025. 
 
+**Chinasa T. Okolo**. ["Balancing Global Majority AI Ambitions with Environmental Considerations."](https://chinasatokolo.github.io/files/Okolo_SIGCAS_2025.pdf) ([ACM Digital Library](https://dl.acm.org/doi/10.1145/3798139.3798141)). In ACM SIGCAS [_Computers and Society_ Winter 2025 Newsletter](https://dl.acm.org/toc/sigcas/2025/53/2), _ACM_, 2025. 
+
 Sumaya Nur Adan, Joanna Wiaterek, Varun Sen Bahl, Ima Bello, Camila Beltran, Tobias Dierks, Luise Eder, Liam Epstein, Abra Ganz, Natalie Kiilu, Marianne Lu, **Chinasa T. Okolo**, Sydney Reis, Said Saillant, Krishna Sharma, Marjia Siddik, Jan Pieter Snoeij, José Jaime Villalobos, and Anna Yelizarova. ["AI Benefit-Sharing Framework: Balancing Access and Safety."](https://aigi.ox.ac.uk/publications/ai-benefit-sharing-framework-balancing-access-and-safety/) Oxford Martin AI Governance Initiative, 2025. 
 
 Kevin R.B. Butler, Sunny Consolvo, Katie Siek, Tammy Toscos, ..., **Chinasa T. Okolo**, et al. ["Supporting At-Risk Users Through Responsible Computing."](http://cra.org/ccc/wp-content/uploads/sites/2/2025/10/Supporting-At-Risk-Users-Through-Responsible-Computing.pdf) Computing Research Association (CRA), 2025.
 
-**Chinasa T. Okolo**. "Governance of AI-based Algorithms." In the [_Handbook of Human-Centered AI_](https://link.springer.com/rwe/10.1007/978-981-97-8440-0_84-1). Edited by Wei Xu. Springer, 2025.
+**Chinasa T. Okolo**. "Governance of AI-based Algorithms." In the [Handbook of Human-Centered AI](https://link.springer.com/rwe/10.1007/978-981-97-8440-0_84-1). Edited by Wei Xu. Springer, 2025.
 
 Michelle Du and **Chinasa T. Okolo**. ["Reimagining the Future of Data and AI Labor in the Global South."](https://www.brookings.edu/articles/reimagining-the-future-of-data-and-ai-labor-in-the-global-south/) _TechTank_. The Brookings Institution, 2025. 
 
