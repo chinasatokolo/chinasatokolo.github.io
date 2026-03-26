@@ -9,6 +9,9 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2026  
+* **March 2026:** [Deploying AI in Global Health: Partnerships, Power, and Public Value](https://globalhealth.harvard.edu/event/deploying-ai-in-global-health/), Harvard Global Health Institute and the Center for Bioethics at Harvard Medical School — _Remote_
+* **March 2026:** Towards a Citizens Track on AI Governance — _Remote_
+* **March 2026:** NRI 2025 Digital Outperformers, Portulans Institute — _Remote_
 * **March 2026:** Guest lecture within the “AI: Policy, Law, and Ethics” course, Cornell University — _Ithaca, NY_
 * **March 2026:** Guest lecture within the “Artificial Intelligence, Ethics, and Society" course, Yale University — _New Haven, CT_
 * **February 2026:** "International Co-ordination for Inclusive Technology" Panel at the Tech for Good Conference, UChicago — _Remote_
