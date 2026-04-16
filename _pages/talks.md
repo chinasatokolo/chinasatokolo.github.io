@@ -9,6 +9,10 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2026  
+* **April 2026:** [Africa's AI Moment](https://luma.com/msv96k7o) by HoaQ — _Remote_
+* **April 2026:** Keynote at [Morehouse MORAL AI Symposium](https://morehouse.edu/ai/conferences) — _Atlanta, GA_
+* **April 2026:** Panel discussion at the [Co-Opting AI: Geopolitics](https://dtdlab.virginia.edu/event/co-opting-ai-geopolitics/) webinar — _Remote_
+* **April 2026:** Panel discussion at the [Mastercard Global Inclusive Growth Forum](https://globalinclusivegrowthsummit.com/) — _Washington, D.C._
 * **April 2026:** GITEX Africa — _Marrakech, Morocco_
 * **April 2026:** Carnegie Mellon University Africa — _Kigali, Rwanda_
 * **March 2026:** [Deploying AI in Global Health: Partnerships, Power, and Public Value](https://globalhealth.harvard.edu/event/deploying-ai-in-global-health/), Harvard Global Health Institute and the Center for Bioethics at Harvard Medical School ([Recording](https://www.youtube.com/watch?v=i2RB5OKsl8Q)) — _Remote_
