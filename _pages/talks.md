@@ -9,7 +9,7 @@ A list of speaking engagements by Dr. Chinasa T. Okolo. Links to recordings/even
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ### 2026  
-* **May 2026:** [Africa AI Village]([https://luma.com/msv96k7o](https://luma.com/ebace4mf) by Qhala — _Washington, D.C._
+* **May 2026:** [Africa AI Village](https://luma.com/ebace4mf) by Qhala — _Washington, D.C._
 * **May 2026:** "Interpretation Meets Computation" panel for [EPIC People Week](https://www.epicpeople.org/learning-week/) — _Remote_
 * **May 2026:** "Research, Policy, & Think Tanks Careers" panel for [Cohort Sistas Career Summit](cohortsistas.org/careersummit) — _Remote_
 * **May 2026:** Inaugural [African Global Summit](https://events.cornell.edu/event/african-global-summit) at Cornell University — _Ithaca, NY_
