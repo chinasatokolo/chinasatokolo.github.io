@@ -11,7 +11,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatoko
 ### 2026  
 * **May 2026:** [Africa AI Village](https://luma.com/ebace4mf) by Qhala — _Washington, D.C._
 * **May 2026:** "Interpretation Meets Computation" panel for [EPIC People Week](https://www.epicpeople.org/learning-week/) — _Remote_
-* **May 2026:** "Research, Policy, & Think Tanks Careers" panel for [Cohort Sistas Career Summit](cohortsistas.org/careersummit) — _Remote_
+* **May 2026:** "Research, Policy, & Think Tanks Careers" panel for [Cohort Sistas Career Summit](https://www.cohortsistas.org/careersummit) — _Remote_
 * **May 2026:** Inaugural [African Global Summit](https://events.cornell.edu/event/african-global-summit) at Cornell University — _Ithaca, NY_
 * **April 2026:** [What's Driving AI Expansion in Africa Today?](https://www.linkedin.com/events/7454495203052302336/) webinar by TechCabal — _Remote_
 * **April 2026:** [Africa's AI Moment](https://luma.com/msv96k7o) webinar by HoaQ — _Remote_
