@@ -184,8 +184,8 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatoko
 * **October 2020:** [Michigan AI Symposium: AI and Health](https://ai.engin.umich.edu/events/2020-ai-symposium/) — _Virtual_
 * **July 2020:** [Harvard CRCS Workshop on AI for Social Good](https://aiforgood2020.github.io) — _Virtual_
 * **July 2020:** [WiML Un-Workshop](https://wimlworkshop.org/icml2020/program/), International Conference on Machine Learning (ICML) — _Virtual_
-* **June 2020:** OHUB365 Webinar — _Virtual_
 * **July 2020:** [Women in Computer Vision Workshop](https://sites.google.com/view/wicvworkshop-cvpr2020), IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) — _Virtual_
+* **June 2020:** OHUB365 Webinar — _Virtual_
 * **March 2020:** SWE Local Buffalo — _Virtual_
 * **March 2020:** [GWiS Empowerment Month Roundtable Discussion](https://gwiscornell.wordpress.com/march-2020-empowerment-month), Cornell University — _Ithaca, NY_
 
