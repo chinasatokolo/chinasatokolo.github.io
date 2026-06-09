@@ -1,0 +1,35 @@
+---
+title: "Chinasa T. Okolo"
+image: "cto.jpeg"
+links:
+  - label: Website
+    url: "https://www.chinasatokolo.com"
+  - label: ORCID
+    url: "https://orcid.org/0000-0002-6474-3378"    
+  - label: LinkedIn
+    url: "https://linkedin.com/in/chinasatokolo"    
+  - label: GitHub
+    url: "https://github.com/ChinasaTOkolo"
+  - label: Twitter
+    url: "https://twitter.com/ChinasaTOkolo"
+  - label: Instagram
+    url: "https://instagram.com/ChinasaTOkolo"      
+  - label: Facebook
+    url: "https://facebook.com/ChinasaTOkolo"        
+  - label: Email
+    url: "mailto:info@technecultura.org"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Chinasa T. Okolo, Ph.D., is the Founder of [Technecultura](https://www.techencultura.org) and a recent Computer Science Ph.D. graduate from Cornell University. Her research focuses on AI governance and safety for the Global Majority, datafication and algorithmic marginalization, and the geopolitical impacts of AI. Dr. Okolo has been recognized as one of the world’s most influential people in AI by TIME, honored in the inaugural Forbes 30 Under 30 AI list, and advises numerous multilateral institutions, national governments, corporations, and nonprofits. She is a Policy Specialist at the United Nations Office for Digital and Emerging Technologies (ODET), a WBG Africa Fellow, a former Fellow at the Brookings Institution, and has worked in research-based roles at Apple and Microsoft. Her research has been covered widely in media outlets and published at top-tier venues in human-computer interaction and sociotechnical computing.
+
+## Publications
+
+My publications are available on my new [website](https://www.chinasatokolo.com/publications). You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=Ljcd9nMAAAAJ&hl=en&oi=sra) or [ResearchGate](https://www.researchgate.net/profile/Chinasa-Okolo-2).
+
+## Contact
+
+Dr. Okolo is an in-demand speaker who has presented at 100+ domestic and international workshops, panels, conferences, and webinars. Please follow the guidance in her [speaker rider](https://github.com/chinasatokolo/MediaKit) and reach out for inquiries. 
